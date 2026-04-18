@@ -8,13 +8,35 @@ const sorted = posts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a
 
 <Base
   title="Comparatifs logiciels de fidélisation & avis Google pour commerces"
-  description="kdokdo compare les meilleurs logiciels de fidélisation gamifiée et de collecte d'avis Google pour les commerces physiques : Grow Lot, Riwil, HeyPongo, Up Review et plus encore."
+  description="kdokdo compare les meilleurs logiciels de fidélisation gamifiée et de collecte d'avis Google pour les commerces physiques : Grow Lot, Riwil, HeyPongo, Kadow Club et plus encore."
 >
-  <div style="margin-bottom: 2.5rem;">
+  <!-- Hero -->
+  <div style="margin-bottom: 3rem; padding-bottom: 2.5rem; border-bottom: 1px solid #e5e7eb;">
+    <p style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #16a34a; margin-bottom: 0.75rem;">Comparatifs indépendants</p>
     <h1>Quel logiciel de fidélisation choisir pour votre commerce ?</h1>
-    <p style="font-size: 1.1rem; color: #555; margin-top: 0.75rem; margin-bottom: 0;">
-      Comparatifs indépendants des solutions de gamification, collecte d'avis Google et marketing local pour commerces physiques.
+    <p style="font-size: 1.1rem; color: #555; margin-top: 1rem; margin-bottom: 1.5rem; max-width: 580px;">
+      Analyses honnêtes des solutions de gamification, collecte d'avis Google et marketing local — pour que vous choisissiez l'outil qui correspond vraiment à votre situation.
     </p>
+    <!-- Stat sociale -->
+    <div style="display:flex; gap: 1.5rem; flex-wrap: wrap; margin-top: 0.5rem;">
+      <div style="display:flex; align-items:center; gap:0.5rem; font-size:0.82rem; color:#666;">
+        <span style="font-size:1rem;">📊</span>
+        <span><strong style="color:#1a1a1a;">+5 solutions</strong> comparées en détail</span>
+      </div>
+      <div style="display:flex; align-items:center; gap:0.5rem; font-size:0.82rem; color:#666;">
+        <span style="font-size:1rem;">✅</span>
+        <span>Basé sur les données officielles de chaque outil</span>
+      </div>
+      <div style="display:flex; align-items:center; gap:0.5rem; font-size:0.82rem; color:#666;">
+        <span style="font-size:1rem;">🔄</span>
+        <span>Mis à jour régulièrement</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Articles -->
+  <div style="margin-bottom: 1rem;">
+    <h2 style="font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: #888; margin: 0 0 1rem;">Derniers comparatifs</h2>
   </div>
 
   <div class="articles-grid">
@@ -24,13 +46,21 @@ const sorted = posts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a
           <h2>{post.data.title}</h2>
           <p>{post.data.description}</p>
           <div class="card-meta">
-            {new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}
-            {post.data.tags?.map((tag: string) => (
+            📅 {new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}
+            {post.data.tags?.slice(0,2).map((tag: string) => (
               <span class="tag" style="margin-left: 0.4rem;">{tag}</span>
             ))}
           </div>
         </a>
       </div>
     ))}
+  </div>
+
+  <!-- Bloc confiance / À propos condensé -->
+  <div style="margin-top: 3.5rem; padding: 1.75rem; background: #f9fafb; border-radius: 12px; border: 1px solid #e5e7eb;">
+    <p style="font-weight: 700; margin-bottom: 0.5rem;">🛡️ Pourquoi faire confiance à kdokdo ?</p>
+    <p style="font-size: 0.88rem; color: #555; margin: 0;">
+      Chaque comparatif est rédigé à partir des données officielles, plaquettes et cas clients publiés par chaque éditeur. Nous mentionnons clairement quand des liens sont affiliés. Notre analyse n'est pas influencée par des partenariats commerciaux — <a href="/a-propos">en savoir plus</a>.
+    </p>
   </div>
 </Base>
