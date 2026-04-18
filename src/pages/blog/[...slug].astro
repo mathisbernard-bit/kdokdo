@@ -12,12 +12,37 @@ export async function getStaticPaths() {
 
 const post = Astro.props;
 const { Content } = await post.render();
+
+const faqSchema = post.data.faq ? JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": post.data.faq.map((item) => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer
+    }
+  }))
+}) : null;
 ---
-<Base title={post.data.title} description={post.data.description} date={post.data.date}>
+
+<Base
+  title={post.data.title}
+  description={post.data.description}
+  date={post.data.date}
+  slug={post.slug}
+  type="article"
+  author={post.data.author}
+>
+  {faqSchema && <script type="application/ld+json" set:html={faqSchema} />}
+
   <div class="meta">
-    Publié le {new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}
-    {post.data.tags?.map(tag => <span class="tag">{tag}</span>)}
+    <span>📅 {new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+    {post.data.author && <span>· ✍️ {post.data.author}</span>}
+    {post.data.tags?.map((tag) => <span class="tag">{tag}</span>)}
   </div>
+
   <h1>{post.data.title}</h1>
   <Content />
 </Base>
