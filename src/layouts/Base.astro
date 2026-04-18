@@ -1,59 +1,194 @@
 ---
-const { title, description, date, slug } = Astro.props;
+const { title, description, date, slug, type = 'website', author = 'kdokdo' } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImage = 'https://kdokdo.com/og-default.png';
+const siteName = 'kdokdo';
+const siteDescription = 'Comparatifs indépendants de logiciels de fidélisation et d\'avis Google pour commerces physiques.';
+
+const articleSchema = type === 'article' ? JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "datePublished": date,
+  "dateModified": date,
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Remy",
+    "url": "https://kdokdo.com/a-propos"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "kdokdo",
+    "url": "https://kdokdo.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kdokdo.com/og-default.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonicalURL.toString()
+  },
+  "image": ogImage
+}) : null;
+
+const websiteSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": siteName,
+  "url": "https://kdokdo.com",
+  "description": siteDescription
+});
 ---
 <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO Core -->
   <title>{title} | kdokdo</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalURL} />
-  <meta property="og:title" content={title} />
-  <meta property="og:description" content={description} />
-  <meta property="og:type" content="article" />
   <meta name="robots" content="index, follow" />
+  <meta name="author" content="Thomas Remy" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={`${title} | kdokdo`} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content={type === 'article' ? 'article' : 'website'} />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:site_name" content={siteName} />
+  <meta property="og:locale" content="fr_FR" />
+  {type === 'article' && date && <meta property="article:published_time" content={new Date(date).toISOString()} />}
+  {type === 'article' && <meta property="article:author" content="Thomas Remy" />}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={`${title} | kdokdo`} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImage} />
+
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json" set:html={websiteSchema} />
+  {articleSchema && <script type="application/ld+json" set:html={articleSchema} />}
+
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #1a1a1a; line-height: 1.7; background: #fff; }
-    header { background: #fff; border-bottom: 1px solid #eee; padding: 1rem 2rem; display: flex; align-items: center; gap: 1rem; }
-    header a { text-decoration: none; color: #1a1a1a; font-weight: 700; font-size: 1.2rem; }
-    header span { color: #888; font-size: 0.9rem; }
-    main { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
-    h1 { font-size: 2rem; font-weight: 800; margin-bottom: 0.5rem; line-height: 1.2; }
-    h2 { font-size: 1.4rem; font-weight: 700; margin: 2rem 0 0.75rem; }
-    h3 { font-size: 1.1rem; font-weight: 600; margin: 1.5rem 0 0.5rem; }
-    p { margin-bottom: 1rem; }
-    ul, ol { margin: 0.5rem 0 1rem 1.5rem; }
-    li { margin-bottom: 0.3rem; }
-    .meta { color: #888; font-size: 0.85rem; margin-bottom: 2rem; }
-    .verdict { background: #f0f9f0; border-left: 4px solid #22c55e; padding: 1rem 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      color: #1a1a1a;
+      line-height: 1.75;
+      background: #fff;
+      font-size: 1rem;
+    }
+
+    /* Header */
+    header {
+      background: #fff;
+      border-bottom: 1px solid #e8e8e8;
+      padding: 0.9rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .logo { text-decoration: none; color: #1a1a1a; font-weight: 800; font-size: 1.15rem; letter-spacing: -0.02em; }
+    .logo span { color: #16a34a; }
+    header nav { margin-left: auto; display: flex; gap: 1.5rem; }
+    header nav a { text-decoration: none; color: #555; font-size: 0.875rem; font-weight: 500; transition: color 0.15s; }
+    header nav a:hover { color: #16a34a; }
+
+    /* Main content */
+    main { max-width: 780px; margin: 0 auto; padding: 3rem 1.5rem 5rem; }
+
+    /* Typography */
+    h1 { font-size: 2rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.75rem; letter-spacing: -0.03em; }
+    h2 { font-size: 1.35rem; font-weight: 700; margin: 2.5rem 0 0.75rem; letter-spacing: -0.02em; }
+    h3 { font-size: 1.1rem; font-weight: 600; margin: 1.75rem 0 0.5rem; }
+    p { margin-bottom: 1.1rem; color: #333; }
+    ul, ol { margin: 0.5rem 0 1.25rem 1.5rem; }
+    li { margin-bottom: 0.4rem; color: #333; }
+    a { color: #16a34a; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    strong { color: #1a1a1a; }
+
+    /* Meta */
+    .meta { color: #888; font-size: 0.82rem; margin-bottom: 2rem; display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+    .tag { display: inline-block; background: #f0fdf4; color: #16a34a; font-size: 0.72rem; font-weight: 600; padding: 0.2rem 0.65rem; border-radius: 99px; border: 1px solid #bbf7d0; }
+
+    /* Table */
+    .table-wrap { overflow-x: auto; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e5e7eb; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+    thead th { background: #f9fafb; padding: 0.7rem 1rem; text-align: left; font-weight: 700; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: #555; border-bottom: 1px solid #e5e7eb; }
+    td { padding: 0.65rem 1rem; border-bottom: 1px solid #f3f4f6; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafafa; }
+
+    /* Verdict box */
+    .verdict { background: #f0fdf4; border-left: 4px solid #16a34a; padding: 1.25rem 1.5rem; border-radius: 0 10px 10px 0; margin: 2rem 0; }
+    .verdict p { margin-bottom: 0.75rem; }
+    .verdict p:last-child { margin-bottom: 0; }
     .verdict strong { color: #15803d; }
-    table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9rem; }
-    th { background: #f5f5f5; padding: 0.6rem 1rem; text-align: left; font-weight: 600; border: 1px solid #e5e5e5; }
-    td { padding: 0.6rem 1rem; border: 1px solid #e5e5e5; }
-    tr:nth-child(even) td { background: #fafafa; }
-    .tag { display: inline-block; background: #f0f0f0; color: #555; font-size: 0.75rem; padding: 0.2rem 0.6rem; border-radius: 99px; margin-right: 0.3rem; }
-    footer { text-align: center; padding: 2rem; color: #aaa; font-size: 0.8rem; border-top: 1px solid #eee; }
-    .articles-grid { display: grid; gap: 1.5rem; margin-top: 2rem; }
-    .article-card { border: 1px solid #eee; border-radius: 10px; padding: 1.5rem; transition: box-shadow 0.2s; }
-    .article-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+
+    /* CTA buttons */
+    .cta-block { display: flex; gap: 1rem; flex-wrap: wrap; margin: 2rem 0; }
+    .cta-btn { display: inline-flex; align-items: center; gap: 0.5rem; background: #16a34a; color: #fff !important; font-weight: 700; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none !important; transition: background 0.15s, transform 0.1s; }
+    .cta-btn:hover { background: #15803d; transform: translateY(-1px); text-decoration: none; }
+    .cta-btn.secondary { background: #fff; color: #16a34a !important; border: 2px solid #16a34a; }
+    .cta-btn.secondary:hover { background: #f0fdf4; }
+
+    /* FAQ */
+    .faq-item { border-top: 1px solid #e5e7eb; padding: 1.25rem 0; }
+    .faq-item:last-child { border-bottom: 1px solid #e5e7eb; }
+    .faq-q { font-weight: 700; margin-bottom: 0.5rem; color: #1a1a1a; }
+    .faq-a { color: #555; margin: 0; }
+
+    /* Article grid (homepage) */
+    .articles-grid { display: grid; gap: 1.25rem; margin-top: 2rem; }
+    .article-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.5rem; transition: box-shadow 0.2s, border-color 0.2s; }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.07); border-color: #d1fae5; }
     .article-card a { text-decoration: none; color: #1a1a1a; }
-    .article-card h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
-    .article-card p { color: #666; font-size: 0.9rem; margin: 0; }
+    .article-card h2 { font-size: 1.05rem; margin: 0 0 0.5rem; color: #1a1a1a; }
+    .article-card p { color: #666; font-size: 0.875rem; margin: 0; }
+    .article-card .card-meta { font-size: 0.75rem; color: #aaa; margin-top: 0.75rem; }
+
+    /* Footer */
+    footer { text-align: center; padding: 2rem 1.5rem; color: #aaa; font-size: 0.8rem; border-top: 1px solid #f0f0f0; }
+    footer a { color: #aaa; }
+    footer a:hover { color: #16a34a; }
+
+    /* Responsive */
+    @media (max-width: 640px) {
+      h1 { font-size: 1.6rem; }
+      main { padding: 2rem 1rem 4rem; }
+      header { padding: 0.8rem 1rem; }
+      .cta-block { flex-direction: column; }
+    }
   </style>
 </head>
 <body>
   <header>
-    <a href="/">🎁 kdokdo</a>
-    <span>Comparatifs & guides — fidélisation et avis Google</span>
+    <a href="/" class="logo">kdok<span>do</span></a>
+    <nav>
+      <a href="/blog">Articles</a>
+      <a href="/a-propos">À propos</a>
+    </nav>
   </header>
   <main>
     <slot />
   </main>
   <footer>
-    <p>kdokdo.com — Comparatifs indépendants de logiciels de fidélisation</p>
+    <p>
+      <a href="/">kdokdo.com</a> — Comparatifs indépendants · Fidélisation & avis Google pour commerces physiques
+      &nbsp;·&nbsp; <a href="/a-propos">À propos</a>
+    </p>
   </footer>
 </body>
 </html>
