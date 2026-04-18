@@ -2,21 +2,33 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('blog')).sort(
-  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
-);
+const posts = await getCollection('blog');
+const sorted = posts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 ---
-<Base title="Comparatifs logiciels de fidélisation et avis Google" description="Comparatifs indépendants des meilleurs outils de fidélisation client et de collecte d'avis Google pour commerces physiques.">
-  <h1>Quel outil de fidélisation choisir ?</h1>
-  <p style="color: #666; margin: 1rem 0 2rem;">Comparatifs indépendants des logiciels de fidélisation, collecte d'avis Google et marketing local pour commerces physiques.</p>
+
+<Base
+  title="Comparatifs logiciels de fidélisation & avis Google pour commerces"
+  description="kdokdo compare les meilleurs logiciels de fidélisation gamifiée et de collecte d'avis Google pour les commerces physiques : Grow Lot, Riwil, HeyPongo, Up Review et plus encore."
+>
+  <div style="margin-bottom: 2.5rem;">
+    <h1>Quel logiciel de fidélisation choisir pour votre commerce ?</h1>
+    <p style="font-size: 1.1rem; color: #555; margin-top: 0.75rem; margin-bottom: 0;">
+      Comparatifs indépendants des solutions de gamification, collecte d'avis Google et marketing local pour commerces physiques.
+    </p>
+  </div>
 
   <div class="articles-grid">
-    {posts.map(post => (
+    {sorted.map(post => (
       <div class="article-card">
-        <a href={`/blog/${post.slug}`}>
+        <a href={`/blog/${post.slug}/`}>
           <h2>{post.data.title}</h2>
           <p>{post.data.description}</p>
-          <p style="color: #aaa; font-size: 0.8rem; margin-top: 0.5rem;">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+          <div class="card-meta">
+            {new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}
+            {post.data.tags?.map((tag: string) => (
+              <span class="tag" style="margin-left: 0.4rem;">{tag}</span>
+            ))}
+          </div>
         </a>
       </div>
     ))}
