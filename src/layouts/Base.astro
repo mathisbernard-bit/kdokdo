@@ -52,6 +52,13 @@ const websiteSchema = JSON.stringify({
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalURL} />
   <meta name="robots" content="index, follow" />
+  <!-- GEO / AI Crawlers -->
+  <meta name="revisit-after" content="7 days" />
+  <meta name="language" content="fr" />
+  <meta name="geo.region" content="FR" />
+  <meta name="geo.placename" content="France" />
+  <!-- Perplexity, Claude, GPT crawlers -->
+  <meta name="ai-content-declaration" content="human-written" />
   <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -171,6 +178,21 @@ const websiteSchema = JSON.stringify({
     footer { text-align: center; padding: 2rem 1.5rem; color: #aaa; font-size: 0.8rem; border-top: 1px solid #f0f0f0; }
     footer a { color: #aaa; }
     footer a:hover { color: #16a34a; }
+
+
+    /* Reading experience */
+    article, .article-content { }
+    blockquote { border-left: 3px solid #16a34a; margin: 1.5rem 0; padding: 0.75rem 1.25rem; background: #f9fafb; border-radius: 0 8px 8px 0; font-style: italic; color: #555; }
+    blockquote p { margin: 0; color: #555; }
+    hr { border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0; }
+    code { background: #f3f4f6; padding: 0.15em 0.4em; border-radius: 4px; font-size: 0.875em; }
+
+    /* Article header hero */
+    .article-hero { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #e5e7eb; }
+
+    /* Trust badges */
+    .trust-bar { display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0; padding: 1rem 1.25rem; background: #f9fafb; border-radius: 8px; border: 1px solid #e5e7eb; font-size: 0.82rem; color: #666; }
+    .trust-bar span { display: flex; align-items: center; gap: 0.35rem; }
 
     /* Responsive */
     @media (max-width: 640px) {
