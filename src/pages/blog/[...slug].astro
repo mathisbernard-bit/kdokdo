@@ -3,11 +3,14 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
+  const now = new Date();
   const posts = await getCollection('blog');
-  return posts.map(post => ({
-    params: { slug: post.slug },
-    props: post,
-  }));
+  return posts
+    .filter(post => new Date(post.data.date) <= now)
+    .map(post => ({
+      params: { slug: post.slug },
+      props: post,
+    }));
 }
 
 const post = Astro.props;
