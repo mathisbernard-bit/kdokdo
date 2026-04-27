@@ -6,46 +6,275 @@ import Base from '../layouts/Base.astro';
   title="À propos de kdokdo — Comparatifs indépendants fidélisation & avis Google"
   description="kdokdo est un blog indépendant de comparatifs de logiciels de fidélisation et de collecte d'avis Google pour les commerces physiques. Méthode, transparence, auteur."
 >
-  <h1>À propos de kdokdo</h1>
-
-  <p style="font-size: 1.1rem; color: #555; margin: 1rem 0 2rem;">
-    Comparatifs honnêtes pour aider les commerçants à choisir les bons outils de fidélisation et d'avis Google.
-  </p>
-
-  <div style="background: #f0fdf4; border-left: 4px solid #16a34a; padding: 1rem 1.5rem; border-radius: 0 10px 10px 0; margin-bottom: 2rem;">
-    <p style="margin:0; font-size: 0.9rem; color: #166534;">
-      <strong>Transparence :</strong> certains liens vers les solutions comparées sont affiliés (trackés via taap.it). Si vous souscrivez après avoir cliqué, nous pouvons recevoir une commission. Cela ne change pas notre analyse ni nos recommandations — nous comparons honnêtement, avantages comme inconvénients.
-    </p>
+  <!-- HERO -->
+  <div class="about-hero">
+    <span class="hero-eyebrow">✦ À propos</span>
+    <h1>Comparatifs honnêtes pour<br/><em>commerçants qui veulent choisir juste</em></h1>
+    <p>kdokdo analyse les outils de fidélisation et d'avis Google pour que vous n'ayez pas à le faire.</p>
   </div>
 
-  <h2>Qui sommes-nous ?</h2>
-  <p>
-    kdokdo est un blog indépendant créé par <strong>Thomas Remy</strong>, consultant en marketing local et e-réputation pour commerces physiques. Depuis 2021, j'accompagne des restaurants, salons, boutiques et franchises dans leur stratégie de visibilité Google et de fidélisation client.
-  </p>
-  <p>
-    Face à une offre de plus en plus dense — roues de la fortune, QR codes, gamification, relances SMS — j'ai voulu créer une ressource neutre et documentée pour aider les commerçants à s'y retrouver.
-  </p>
+  <main>
 
-  <h2>Notre méthode</h2>
-  <p>
-    Chaque comparatif est rédigé à partir d'une analyse approfondie des fonctionnalités, tarifs publics, plaquettes commerciales officielles et avis clients. Nous ne modifions pas nos conclusions en échange de partenariats ou de rémunérations.
-  </p>
-  <p>
-    Quand un outil a un avantage réel sur ses concurrents, nous le disons clairement. Quand il a un angle mort (absence de filtre anti-avis, tarif élevé, manque de fonctionnalité), nous le mentionnons aussi.
-  </p>
+    <!-- TRANSPARENCE -->
+    <div class="transparency-banner">
+      <span class="transparency-icon">🔍</span>
+      <p>
+        <strong>Transparence :</strong> certains liens vers les solutions comparées sont affiliés (trackés via taap.it). Si vous souscrivez après avoir cliqué, nous pouvons recevoir une commission. Cela ne change pas notre analyse ni nos recommandations — nous comparons honnêtement, avantages comme inconvénients.
+      </p>
+    </div>
 
-  <h2>Les sujets couverts</h2>
-  <ul>
-    <li>Logiciels de gamification et roue de la fortune (Grow Lot, Riwil, HeyPongo, Kadow Club, Basilyk...)</li>
-    <li>Collecte d'avis Google et gestion de réputation locale</li>
-    <li>Marketing e-mail et SMS pour commerces physiques</li>
-    <li>Fidélisation client et programmes de récompenses</li>
-    <li>SEO local et optimisation fiche Google Business Profile</li>
-  </ul>
+    <!-- CARDS SECTION -->
+    <div class="about-grid">
 
-  <h2>Contact</h2>
-  <p>
-    Une question, une suggestion de comparatif, ou vous voulez qu'on analyse votre solution ?
-    Écrivez-nous à <a href="mailto:contact@kdokdo.com">contact@kdokdo.com</a>.
-  </p>
+      <div class="about-card">
+        <div class="about-card-icon">👤</div>
+        <h2>Qui sommes-nous ?</h2>
+        <p>
+          kdokdo est un blog indépendant créé par <strong>Thomas Remy</strong>, consultant en marketing local et e-réputation pour commerces physiques. Depuis 2021, j'accompagne des restaurants, salons, boutiques et franchises dans leur stratégie de visibilité Google et de fidélisation client.
+        </p>
+        <p>
+          Face à une offre de plus en plus dense — roues de la fortune, QR codes, gamification, relances SMS — j'ai voulu créer une ressource neutre et documentée pour aider les commerçants à s'y retrouver.
+        </p>
+      </div>
+
+      <div class="about-card">
+        <div class="about-card-icon">🔬</div>
+        <h2>Notre méthode</h2>
+        <p>
+          Chaque comparatif est rédigé à partir d'une analyse approfondie des fonctionnalités, tarifs publics, plaquettes commerciales officielles et avis clients. Nous ne modifions pas nos conclusions en échange de partenariats ou de rémunérations.
+        </p>
+        <p>
+          Quand un outil a un avantage réel sur ses concurrents, nous le disons clairement. Quand il a un angle mort (absence de filtre anti-avis, tarif élevé, manque de fonctionnalité), nous le mentionnons aussi.
+        </p>
+      </div>
+
+    </div>
+
+    <!-- SUJETS COUVERTS -->
+    <div class="topics-section">
+      <h2>Les sujets couverts</h2>
+      <div class="topics-grid">
+        <div class="topic-item">
+          <span class="topic-icon">🎰</span>
+          <span>Gamification & roue de la fortune<br/><small>Grow Lot, Riwil, HeyPongo, Kadow Club, Basilyk…</small></span>
+        </div>
+        <div class="topic-item">
+          <span class="topic-icon">⭐</span>
+          <span>Collecte d'avis Google<br/><small>Gestion de réputation locale</small></span>
+        </div>
+        <div class="topic-item">
+          <span class="topic-icon">📧</span>
+          <span>Marketing e-mail & SMS<br/><small>Pour commerces physiques</small></span>
+        </div>
+        <div class="topic-item">
+          <span class="topic-icon">🏆</span>
+          <span>Fidélisation client<br/><small>Programmes de récompenses</small></span>
+        </div>
+        <div class="topic-item">
+          <span class="topic-icon">📍</span>
+          <span>SEO local<br/><small>Optimisation Google Business Profile</small></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- CONTACT -->
+    <div class="contact-box">
+      <div class="contact-box-left">
+        <h2>Une question ?</h2>
+        <p>Une suggestion de comparatif, ou vous voulez qu'on analyse votre solution ? On vous répond rapidement.</p>
+      </div>
+      <a href="mailto:contact@kdokdo.com" class="contact-btn">
+        ✉ contact@kdokdo.com
+      </a>
+    </div>
+
+  </main>
 </Base>
+
+<style is:global>
+  /* ── ABOUT HERO ─────────────────────────────────────────────────────────── */
+  .about-hero {
+    background: linear-gradient(135deg, var(--dark) 0%, var(--dark-mid) 100%);
+    padding: 5rem 5% 4rem;
+    text-align: center;
+  }
+  .about-hero h1 {
+    font-size: clamp(1.75rem, 4vw, 2.6rem);
+    font-weight: 800;
+    color: var(--white);
+    margin-bottom: 1rem;
+    letter-spacing: -0.03em;
+  }
+  .about-hero h1 em {
+    font-style: normal;
+    background: linear-gradient(90deg, #4ade80, #16a34a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .about-hero p {
+    color: rgba(255,255,255,.65);
+    font-size: 1.05rem;
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  /* ── TRANSPARENCY BANNER ─────────────────────────────────────────────────── */
+  .transparency-banner {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    background: var(--green-pale);
+    border: 1.5px solid #86efac;
+    border-radius: var(--radius-md);
+    padding: 1.1rem 1.4rem;
+    margin-bottom: 2.5rem;
+  }
+  .transparency-icon { font-size: 1.1rem; flex-shrink: 0; margin-top: 0.1rem; }
+  .transparency-banner p {
+    margin: 0;
+    font-size: 0.88rem;
+    color: #166534;
+    line-height: 1.65;
+  }
+  .transparency-banner strong { color: var(--green-dark); }
+
+  /* ── ABOUT CARDS GRID ────────────────────────────────────────────────────── */
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+    margin-bottom: 2.5rem;
+  }
+  @media (max-width: 680px) {
+    .about-grid { grid-template-columns: 1fr; }
+  }
+
+  .about-card {
+    background: var(--white);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 1.75rem;
+    transition: border-color .2s, box-shadow .2s;
+  }
+  .about-card:hover {
+    border-color: var(--green);
+    box-shadow: var(--shadow-green);
+  }
+  .about-card-icon {
+    font-size: 1.6rem;
+    margin-bottom: 0.75rem;
+  }
+  .about-card h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    color: var(--dark);
+    border: none;
+    padding: 0;
+  }
+  .about-card p {
+    font-size: 0.9rem;
+    color: #475569;
+    margin-bottom: 0.75rem;
+  }
+  .about-card p:last-child { margin-bottom: 0; }
+
+  /* ── TOPICS SECTION ──────────────────────────────────────────────────────── */
+  .topics-section {
+    margin-bottom: 2.5rem;
+  }
+  .topics-section h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--dark);
+    margin-bottom: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .topics-section h2::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+  .topics-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+  }
+  @media (max-width: 480px) {
+    .topics-grid { grid-template-columns: 1fr; }
+  }
+  .topic-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    background: var(--gray-light);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 1rem 1.1rem;
+    font-size: 0.875rem;
+    color: var(--dark-mid);
+    font-weight: 500;
+    transition: border-color .2s, background .2s;
+  }
+  .topic-item:hover {
+    border-color: #86efac;
+    background: var(--green-pale);
+  }
+  .topic-icon { font-size: 1.25rem; flex-shrink: 0; }
+  .topic-item small {
+    display: block;
+    font-size: 0.78rem;
+    color: var(--gray);
+    font-weight: 400;
+    margin-top: 0.2rem;
+  }
+
+  /* ── CONTACT BOX ─────────────────────────────────────────────────────────── */
+  .contact-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    background: linear-gradient(135deg, var(--dark) 0%, var(--dark-mid) 100%);
+    border-radius: var(--radius-lg);
+    padding: 2rem 2.25rem;
+    flex-wrap: wrap;
+  }
+  .contact-box-left h2 {
+    font-size: 1.15rem;
+    color: white;
+    margin-bottom: 0.4rem;
+    border: none;
+    padding: 0;
+  }
+  .contact-box-left p {
+    color: rgba(255,255,255,.65);
+    font-size: 0.9rem;
+    margin: 0;
+  }
+  .contact-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--green);
+    color: var(--white) !important;
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 0.9rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: var(--radius-sm);
+    white-space: nowrap;
+    text-decoration: none !important;
+    transition: background .15s, transform .1s;
+    box-shadow: 0 2px 8px rgba(22,163,74,.3);
+    flex-shrink: 0;
+  }
+  .contact-btn:hover {
+    background: var(--green-dark);
+    transform: translateY(-1px);
+  }
+</style>
