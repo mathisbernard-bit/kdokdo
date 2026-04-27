@@ -3,49 +3,60 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const now = new Date();
+  const today = new Date();
+  today.setHours(23, 59, 59, 999);
   const posts = await getCollection('blog');
   return posts
-    .filter(post => new Date(post.data.date) <= now)
-    .map(post => ({
-      params: { slug: post.slug },
-      props: post,
-    }));
+    .filter(post => new Date(post.data.date) <= today)
+    .map(post => ({ params: { slug: post.slug }, props: { post } }));
 }
 
-const post = Astro.props;
+const { post } = Astro.props;
 const { Content } = await post.render();
-
-const faqSchema = post.data.faq ? JSON.stringify({
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": post.data.faq.map((item) => ({
-    "@type": "Question",
-    "name": item.question,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": item.answer
-    }
-  }))
-}) : null;
+const tags = post.data.tags || [];
 ---
-
 <Base
   title={post.data.title}
   description={post.data.description}
   date={post.data.date}
   slug={post.slug}
   type="article"
-  author={post.data.author}
+  author={post.data.author || 'Thomas Remy'}
 >
-  {faqSchema && <script type="application/ld+json" set:html={faqSchema} />}
+  <main>
+    <article>
+      <header class="article-header">
+        <nav class="breadcrumb" aria-label="Fil d'Ariane">
+          <a href="/">kdokdo</a>
+          <span class="breadcrumb-sep">›</span>
+          <a href="/blog">Articles</a>
+          <span class="breadcrumb-sep">›</span>
+          <span>{post.data.title}</span>
+        </nav>
+        <h1>{post.data.title}</h1>
+        <div class="article-meta">
+          <span>Par Thomas Remy</span>
+          <span>·</span>
+          <span>{new Date(post.data.date).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
+          {tags.length > 0 && <span>·</span>}
+          {tags.map((tag: string) => <span class="badge">{tag}</span>)}
+        </div>
+        <div class="trust-bar">
+          <span>✓ Contenu rédigé par des humains</span>
+          <span>✓ Sources vérifiées</span>
+          <span>✓ Liens affiliés signalés</span>
+        </div>
+      </header>
 
-  <div class="meta">
-    <span>📅 {new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
-    {post.data.author && <span>· ✍️ {post.data.author}</span>}
-    {post.data.tags?.map((tag) => <span class="tag">{tag}</span>)}
-  </div>
+      <div class="content">
+        <Content />
+      </div>
 
-  <h1>{post.data.title}</h1>
-  <Content />
+      <div class="cta-box">
+        <h3>Prêt à tester Grow Lot ?</h3>
+        <p>Roue de la fortune, filtre anti-avis négatifs, relances marketing — à partir de 49€/mois à vie.</p>
+        <a href="https://taap.it/RYNFv38" target="_blank" rel="nofollow noopener">Découvrir Grow Lot →</a>
+      </div>
+    </article>
+  </main>
 </Base>
