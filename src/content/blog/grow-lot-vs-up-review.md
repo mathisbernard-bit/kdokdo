@@ -2,7 +2,7 @@
 title: "Grow Lot vs Up Review : quel outil de fidélisation choisir pour votre commerce en 2026 ?"
 description: "Comparatif complet entre Grow Lot et Up Review : avis Google, jeu concours, gamification, prix et fonctionnalités pour fidéliser vos clients."
 author: "Thomas Remy"
-pubDate: "2026-05-06"
+date: "2026-05-06"
 image: "/og-default.png"
 ---
 
