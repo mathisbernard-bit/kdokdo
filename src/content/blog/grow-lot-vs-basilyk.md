@@ -138,8 +138,8 @@ Pour la grande majorité des commerçants qui veulent un **impact mesurable sur 
 </div>
 
 <div class="cta-block">
-  <a href="https://taap.it/RYNFv38" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
-  <a href="https://taap.it/jtQJUGy" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte gratuit</a>
+  <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
+  <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte gratuit</a>
 </div>
 
 ---
@@ -153,7 +153,7 @@ Pour la grande majorité des commerçants qui veulent un **impact mesurable sur 
 
 <div class="faq-item">
   <p class="faq-q">Grow Lot propose-t-il un essai gratuit ?</p>
-  <p class="faq-a">Oui, Grow Lot propose une démonstration gratuite sur <a href="https://taap.it/RYNFv38" rel="nofollow sponsored">grow-lot.com</a>.</p>
+  <p class="faq-a">Oui, Grow Lot propose une démonstration gratuite sur <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" rel="nofollow sponsored">grow-lot.com</a>.</p>
 </div>
 
 <div class="faq-item">
