@@ -147,8 +147,8 @@ Pour **un restaurant ou commerce indépendant** qui veut des résultats rapideme
 </div>
 
 <div class="cta-block">
-  <a href="https://taap.it/RYNFv38" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
-  <a href="https://taap.it/jtQJUGy" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte gratuit</a>
+  <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
+  <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte gratuit</a>
 </div>
 
 ---
