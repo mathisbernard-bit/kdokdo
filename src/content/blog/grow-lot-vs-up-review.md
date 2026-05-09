@@ -133,7 +133,7 @@ Vous décidez les prix des lots (gratuit, -10%, produit). La roue donne tous les
 
 ## Ressources externes
 
-- [Site officiel Grow Lot](https://app.grow-lot.com)
+- <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" target="_blank" rel="noopener" style="display:inline-block;background:#654a98;color:#fff;font-weight:700;padding:0.7rem 1.5rem;border-radius:8px;text-decoration:none;font-size:0.95rem;margin:0.5rem 0;">🚀 Découvrir Grow Lot</a>
 - [Site officiel Up Review](https://up-review.co/fr)
 - [Blog Grow Lot : Fidélisation et gamification](https://blog.grow-lot.com)
 - [Blog Up Review : Avis Google et e-réputation](https://up-review.co/fr/blog)
@@ -144,8 +144,8 @@ Vous décidez les prix des lots (gratuit, -10%, produit). La roue donne tous les
 
 Cet article contient des liens d'affiliation. Grow Lot nous permet de suivre les conversions pour améliorer notre contenu.
 
-**Tester Grow Lot** : [https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir)
-**S'inscrire à Grow Lot** : [https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription)
+**Tester Grow Lot** : <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" target="_blank" rel="noopener" style="display:inline-block;background:#654a98;color:#fff;font-weight:700;padding:0.7rem 1.5rem;border-radius:8px;text-decoration:none;font-size:0.95rem;margin:0.5rem 0;">🚀 Découvrir Grow Lot</a>
+**S'inscrire à Grow Lot** : <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" target="_blank" rel="noopener" style="display:inline-block;background:#654a98;color:#fff;font-weight:700;padding:0.7rem 1.5rem;border-radius:8px;text-decoration:none;font-size:0.95rem;margin:0.5rem 0;">✨ Essayer Grow Lot gratuitement</a>
 
 ---
 
