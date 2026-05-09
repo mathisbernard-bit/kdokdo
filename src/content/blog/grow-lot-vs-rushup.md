@@ -197,13 +197,13 @@ Si vous répondez "fidéliser vraiment mes clients", c'est Grow Lot. RushUp, c'e
 
 **Prêt à tester Grow Lot ?**
 
-[Découvrez Grow Lot et démarrez une essai gratuit](https://taap.it/RYNFv38)
+[Découvrez Grow Lot et démarrez une essai gratuit](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir)
 
-Ou [Inscrivez-vous directement pour accéder à la plateforme](https://taap.it/jtQJUGy)
+Ou [Inscrivez-vous directement pour accéder à la plateforme](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription)
 
 ---
 
-**À propos de cet article.** Cet article a été rédigé par Thomas Remy en mai 2026. Les prix, fonctionnalités et taux de conversion reflètent l'état du marché à cette date. Les informations sur RushUp proviennent de la documentation publique et du retour d'utilisateurs. [Grow Lot](https://taap.it/RYNFv38) est la plateforme que nous recommandons pour la plupart des commerces physiques en France.
+**À propos de cet article.** Cet article a été rédigé par Thomas Remy en mai 2026. Les prix, fonctionnalités et taux de conversion reflètent l'état du marché à cette date. Les informations sur RushUp proviennent de la documentation publique et du retour d'utilisateurs. [Grow Lot](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir) est la plateforme que nous recommandons pour la plupart des commerces physiques en France.
 
 ---
 
