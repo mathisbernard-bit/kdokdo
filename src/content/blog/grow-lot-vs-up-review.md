@@ -133,7 +133,7 @@ Vous décidez les prix des lots (gratuit, -10%, produit). La roue donne tous les
 
 ## Ressources externes
 
-- [Site officiel Grow Lot](https://grow-lot.com)
+- [Site officiel Grow Lot](https://app.grow-lot.com)
 - [Site officiel Up Review](https://up-review.co/fr)
 - [Blog Grow Lot : Fidélisation et gamification](https://blog.grow-lot.com)
 - [Blog Up Review : Avis Google et e-réputation](https://up-review.co/fr/blog)
@@ -144,8 +144,8 @@ Vous décidez les prix des lots (gratuit, -10%, produit). La roue donne tous les
 
 Cet article contient des liens d'affiliation. Grow Lot nous permet de suivre les conversions pour améliorer notre contenu.
 
-**Tester Grow Lot** : [https://taap.it/RYNFv38](https://taap.it/RYNFv38)
-**S'inscrire à Grow Lot** : [https://taap.it/jtQJUGy](https://taap.it/jtQJUGy)
+**Tester Grow Lot** : [https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir)
+**S'inscrire à Grow Lot** : [https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription)
 
 ---
 
