@@ -197,13 +197,13 @@ Si vous répondez "fidéliser vraiment mes clients", c'est Grow Lot. RushUp, c'e
 
 **Prêt à tester Grow Lot ?**
 
-[Découvrez Grow Lot et démarrez une essai gratuit](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir)
+<a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" target="_blank" rel="noopener" style="display:inline-block;background:#654a98;color:#fff;font-weight:700;padding:0.7rem 1.5rem;border-radius:8px;text-decoration:none;font-size:0.95rem;margin:0.5rem 0;">🚀 Découvrir Grow Lot</a>
 
-Ou [Inscrivez-vous directement pour accéder à la plateforme](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription)
+Ou <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" target="_blank" rel="noopener" style="display:inline-block;background:#654a98;color:#fff;font-weight:700;padding:0.7rem 1.5rem;border-radius:8px;text-decoration:none;font-size:0.95rem;margin:0.5rem 0;">✨ Essayer Grow Lot gratuitement</a>
 
 ---
 
-**À propos de cet article.** Cet article a été rédigé par Thomas Remy en mai 2026. Les prix, fonctionnalités et taux de conversion reflètent l'état du marché à cette date. Les informations sur RushUp proviennent de la documentation publique et du retour d'utilisateurs. [Grow Lot](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir) est la plateforme que nous recommandons pour la plupart des commerces physiques en France.
+**À propos de cet article.** Cet article a été rédigé par Thomas Remy en mai 2026. Les prix, fonctionnalités et taux de conversion reflètent l'état du marché à cette date. Les informations sur RushUp proviennent de la documentation publique et du retour d'utilisateurs. <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" target="_blank" rel="noopener" style="display:inline-block;background:#654a98;color:#fff;font-weight:700;padding:0.7rem 1.5rem;border-radius:8px;text-decoration:none;font-size:0.95rem;margin:0.5rem 0;">🚀 Découvrir Grow Lot</a> est la plateforme que nous recommandons pour la plupart des commerces physiques en France.
 
 ---
 
