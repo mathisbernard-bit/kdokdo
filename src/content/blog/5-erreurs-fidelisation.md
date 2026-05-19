@@ -1,7 +1,7 @@
 ---
 title: "5 erreurs courantes dans votre stratégie de fidélisation (et comment les éviter)"
 description: "Découvrez les 5 pièges les plus communs de la fidélisation client en 2026 et comment les éviter avec les bonnes pratiques. Analyse détaillée avec cas d'usage réels."
-date: "2026-05-23"
+date: "2026-05-19"
 tags: ["fidélisation", "stratégie marketing", "e-commerce", "avis Google", "ROI"]
 author: "Thomas Remy"
 image:
