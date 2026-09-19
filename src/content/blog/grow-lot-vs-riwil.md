@@ -10,7 +10,7 @@ faq:
   - question: "Grow Lot propose-t-il un essai gratuit ?"
     answer: "Oui, Grow Lot propose une démonstration sur son site officiel grow-lot.com."
   - question: "Peut-on utiliser Grow Lot pour plusieurs établissements ?"
-    answer: "Oui, Grow Lot s'adresse aux franchises et réseaux multi-établissements avec un tarif dégressif."
+    answer: "Oui, Grow Lot s'adresse aux franchises et réseaux multi-établissements avec une offre Réseau sur devis (de 3 à 50+ établissements, supports inclus) ou une option à +17 € HT/mois par site supplémentaire sur l'offre Essentiel."
   - question: "Quelle solution est la mieux adaptée aux restaurants ?"
     answer: "Grow Lot est particulièrement efficace pour la restauration : +120 avis/mois et +20 % de chiffre d'affaires en moyenne selon les données clients."
   - question: "Grow Lot est-il disponible en plusieurs langues ?"
@@ -21,7 +21,7 @@ faq:
 
 Vous hésitez entre **Grow Lot** et **Riwil** pour booster vos avis Google ? Ces deux solutions françaises utilisent la roue de la fortune et le QR code pour engager vos clients — mais elles ne jouent pas du tout dans la même catégorie.
 
-Riwil affiche 9 €/mois. Grow Lot, 49 €/mois. Est-ce simplement une question de budget ? Pas vraiment.
+Riwil affiche 9 €/mois. Grow Lot démarre désormais à 19 € HT/mois (offre Essentiel) et 59 € HT/mois pour l'offre Performance tout-en-un. L'écart de prix s'est considérablement réduit, rendant la comparaison encore plus intéressante.
 
 Voici un comparatif honnête et complet pour vous aider à choisir.
 
@@ -31,7 +31,7 @@ Voici un comparatif honnête et complet pour vous aider à choisir.
 
 **Riwil** est une solution minimaliste de collecte d'avis Google via roue de la fortune et QR code. Simple, rapide à déployer, peu coûteuse. Idéal pour qui veut juste des avis, sans se prendre la tête.
 
-**Grow Lot** est une suite de fidélisation et marketing local complète : roue de la fortune 100 % gagnante + filtre anti-avis négatifs + collecte d'emails + relances marketing + audit e-réputation + supports physiques inclus. Disponible en français, anglais et espagnol, avec plus de 100 clients actifs et 10 000 avis collectés.
+**Grow Lot** est une suite de fidélisation et marketing local complète : roue de la fortune 100 % gagnante + filtre anti-avis négatifs + collecte d'emails + relances marketing (email, SMS, WhatsApp) + audit de visibilité IA + panneau de comptoir inclus (et 500 flyers en Performance). Disponible en français, anglais et espagnol, avec +100 entreprises accompagnées et +10 000 avis collectés.
 
 ---
 
@@ -45,18 +45,18 @@ Voici un comparatif honnête et complet pour vous aider à choisir.
 | QR code | ✅ | ✅ |
 | Filtre anti-avis négatifs | ✅ | ❌ |
 | Collecte e-mail + téléphone | ✅ | ✅ |
-| Relances marketing (e-mail/SMS) | ✅ | ❌ |
+| Relances marketing (e-mail/SMS/WhatsApp) | ✅ (selon offre) | ❌ |
 | Appels à l'action (CTA) | ✅ 10 CTA cumulables | Quelques réseaux |
 | Deeplinks (ouverture directe app) | ✅ | ❌ |
 | Trustpilot / TripAdvisor | ✅ | ❌ |
-| Audit GMB / SEO local | ✅ | ❌ |
-| Réponses IA aux avis | ✅ | ❌ |
-| Supports physiques inclus | ✅ (chevalets + flyers) | ❌ |
+| Audit GMB / SEO local | ✅ (audit visibilité IA) | ❌ |
+| Réponses IA aux avis | ✅ (analyse IA des avis) | ❌ |
+| Supports physiques inclus | ✅ Panneau de comptoir (+ 500 flyers en Performance) | ❌ |
 | Système anti-triche | ✅ | ❌ |
-| Assistant IA 24h/24 (Pixmo) | ✅ | ❌ |
+| Analyse IA des avis & visuels IA | ✅ (20 visuels/mois en Essentiel, analyse IA en Performance) | ❌ |
 | RGPD certifié expert cybersécurité | ✅ | ? |
 | Multi-langues | ✅ FR/EN/ES | ❌ |
-| Prix mensuel | **49 €/mois** | **9 €/mois** |
+| Prix mensuel | **19 € HT/mois** (Essentiel) / **59 € HT/mois** (Performance) | **9 €/mois** |
 
 </div>
 
@@ -70,26 +70,26 @@ La quasi-totalité des concurrents, dont Riwil, fonctionnent ainsi : le client l
 
 **Grow Lot inverse l'ordre.** Le client gagne d'abord — sans condition. La récompense est acquise avant toute demande. Ensuite seulement, on lui propose de laisser un avis, comme une simple faveur.
 
-Résultat : le joueur sait qu'il n'a pas été manipulé. Il réalise l'action de plein gré, par gratitude. C'est le **principe de réciprocité** (Cialdini) appliqué au marketing local — et c'est ce qui explique le taux de conversion de **~50 % scan → action** affiché par Grow Lot.
+Résultat : le joueur sait qu'il n'a pas été manipulé. Il réalise l'action de plein gré, par gratitude. C'est le **principe de réciprocité** (Cialdini) appliqué au marketing local — et c'est ce qui permet aux restaurateurs d'obtenir **+120 avis Google/mois** ou **plus de 80 avis en moins de 20 jours**.
 
 > *"Chez Grow Lot, vous gagnez d'abord. Vous aidez ensuite. C'est la différence entre demander une faveur et en recevoir une."*
 
 ---
 
-## 2. Prix : 9 € vs 49 €, ce que vous achetez vraiment
+## 2. Prix : 9 € vs 19 € HT, un écart réduit et un contenu incomparablement plus riche
 
-Riwil est sans conteste le moins cher. Pour un commerçant qui veut uniquement des avis Google rapidement et sans complexité, c'est une option cohérente.
+Riwil reste la solution la moins chère à 9 €/mois. Pour un commerçant au budget extrêmement serré qui veut uniquement une roue basique de collecte d'avis sans aucun outil marketing autour, c'est une option d'entrée de gamme.
 
-Mais à 49 €/mois, Grow Lot regroupe ce que vous paieriez séparément :
-- Un outil de collecte d'avis multi-plateformes (Google, Trustpilot, TripAdvisor, Facebook...)
-- Un logiciel d'e-mail marketing avec campagnes drag-and-drop
-- Un service d'audit de réputation Google avec réponses IA intégrées
-- Du matériel physique (chevalets, 500 flyers inclus)
-- Un assistant IA disponible 24h/24 (Pixmo)
+Cependant, avec le nouveau tarif Essentiel de Grow Lot à **19 € HT/mois** (avec engagement annuel, ou 29 € HT/mois sans engagement), l'écart avec Riwil n'est plus que de 10 € HT par mois. Pour cette différence minime, Grow Lot inclut déjà le panneau de comptoir personnalisé, la carte de fidélité Apple et Google Wallet, 4 jeux dans un hub, 20 visuels IA par mois et le filtre anti-avis négatifs.
 
-Si vous payiez ces outils séparément, vous dépasseriez rapidement les 49 €/mois.
+Pour les commerces voulant la suite complète, l'offre **Performance à 59 € HT/mois** (79 € HT sans engagement) regroupe ce que vous paieriez séparément chez plusieurs prestataires :
+- La collecte d'avis multi-plateformes avec filtre intelligent (publie les 4-5★ sur Google, redirige le reste en interne)
+- La relance marketing intégrée (5 000 emails/mois + SMS et WhatsApp)
+- L'analyse IA des avis et l'audit de visibilité IA
+- 500 flyers offerts en plus du panneau de comptoir
+- Les widgets, le parcours d'actions évolutif et le support prioritaire
 
-**L'argument décisif :** les clients qui souscrivent aujourd'hui au plan de lancement à 49 €/mois bénéficieront du futur plan Premium (à 129 €/mois) **à vie, sans surcoût**. C'est une offre qui n'existe nulle part ailleurs sur ce marché.
+Pour 10 € HT de plus en Essentiel (ou 50 € HT de plus en Performance), la différence de valeur et de fonctionnalités est sans commune mesure par rapport à un outil minimaliste à 9 €/mois.
 
 ---
 
@@ -134,7 +134,7 @@ Riwil ne propose pas de système anti-triche documenté.
 
 Collecter un avis, c'est bien. Faire revenir le client, c'est mieux.
 
-Grow Lot envoie automatiquement un e-mail personnalisé après chaque visite avec le lot gagné, ce qui incite à un retour en magasin. Des campagnes ciblées sont ensuite possibles : anniversaires, événements spéciaux (Saint-Valentin, fête des mères), relance des clients silencieux, ou encore écoulement des invendus en fin de journée.
+Grow Lot intègre des relances marketing (email et SMS, ainsi que WhatsApp dans l'offre Performance avec 5 000 emails/mois) : e-mail post-visite avec le lot gagné pour inciter au retour, campagnes anniversaires, événements spéciaux, relance des clients silencieux ou écoulement des invendus.
 
 Cette dimension fidélisation est entièrement absente chez Riwil, qui se limite à la collecte d'avis et de données.
 
@@ -146,9 +146,9 @@ Cette dimension fidélisation est entièrement absente chez Riwil, qui se limite
 
 **Choisissez Riwil si** vous voulez uniquement des avis Google rapidement, avec un budget très serré (9 €/mois), sans besoin de fonctionnalités marketing. Simple et fonctionnel pour l'essentiel.
 
-**Choisissez Grow Lot si** vous voulez une stratégie de croissance complète : protéger votre réputation Google, fidéliser vos clients par e-mail, accéder à 10 CTA cumulables avec deeplinks, et disposer d'une suite marketing tout-en-un adaptée aux commerces physiques.
+**Choisissez Grow Lot si** vous voulez une vraie stratégie de fidélisation et de croissance : protéger votre réputation Google grâce au filtre intelligent, fidéliser vos clients (carte Wallet, relances email/SMS/WhatsApp), accéder à 10 CTA cumulables avec deeplinks, et utiliser les outils IA. Avec l'offre Essentiel à **19 € HT/mois**, le ticket d'entrée est désormais extrêmement proche de Riwil pour une valeur nettement supérieure.
 
-Pour la grande majorité des commerçants qui prennent leur marketing local au sérieux, **Grow Lot offre un rapport valeur/prix nettement supérieur** dès lors qu'on considère l'ensemble des fonctionnalités incluses — et l'offre à vie actuelle ne durera pas indéfiniment.
+Pour la grande majorité des commerçants qui prennent leur marketing local au sérieux, **Grow Lot offre un rapport valeur/prix nettement supérieur**.
 
 </div>
 
@@ -173,7 +173,7 @@ Pour la grande majorité des commerçants qui prennent leur marketing local au s
 
 <div class="faq-item">
   <p class="faq-q">Peut-on utiliser Grow Lot pour plusieurs établissements ?</p>
-  <p class="faq-a">Oui, Grow Lot s'adresse aux franchises et réseaux multi-établissements avec un tarif dégressif.</p>
+  <p class="faq-a">Oui, Grow Lot s'adresse aux franchises et réseaux multi-établissements avec une offre Réseau sur devis (de 3 à 50+ établissements, supports inclus) ou une option à +17 € HT/mois par site supplémentaire sur l'offre Essentiel.</p>
 </div>
 
 <div class="faq-item">

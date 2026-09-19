@@ -190,7 +190,7 @@ En 2026, la fidélisation récompense les commerces qui :
 
 Si vous cherchez une solution tout-en-un pour mettre en place cette stratégie — gamification, filtre anti-avis, e-mail marketing, et IA pour la personnalisation — découvrez comment cela fonctionne en détail ici :
 
-🔗 [Visiter Grow Lot](https://taap.it/RYNFv38) | [S'inscrire gratuitement](https://taap.it/jtQJUGy)
+🔗 [Visiter Grow Lot](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir) | [S'inscrire gratuitement](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription)
 
 ---
 

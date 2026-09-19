@@ -8,18 +8,18 @@ faq:
   - question: "Kadow Club propose-t-il un filtre anti-avis négatifs ?"
     answer: "Non. Kadow Club collecte des avis Google via ses jeux, mais ne propose pas de filtre de modération interne pour les avis négatifs. Les clients insatisfaits peuvent publier directement sur votre fiche Google."
   - question: "Combien coûte Kadow Club ?"
-    answer: "Kadow Club affiche 229€ HT/mois sur 12 mois (soit 183€ sur 24 mois et 149€ sur 36 mois). Grow Lot est à 49€/mois tout inclus sans engagement minimum documenté."
+    answer: "Kadow Club affiche 229€ HT/mois sur 12 mois (soit 183€ sur 24 mois et 149€ sur 36 mois). Grow Lot est accessible dès 19 € HT/mois (offre Essentiel) et 59 € HT/mois pour l'offre complète Performance."
   - question: "Grow Lot propose-t-il une roue 100% gagnante ?"
-    answer: "Oui. Chez Grow Lot, chaque client repart systématiquement avec un lot garanti. C'est ce qui explique le taux de conversion de ~50% scan → avis."
+    answer: "Oui. Chez Grow Lot, chaque client repart systématiquement avec un lot garanti. C'est ce qui contribue aux résultats constatés (+120 avis/mois en restauration)."
   - question: "Kadow Club convient-il aux petits commerces indépendants ?"
-    answer: "Kadow Club est accessible à tout type de commerce, mais son tarif de 229€ HT/mois (sur 12 mois minimum) et sa complexité le rendent plus adaptés aux établissements avec un budget marketing conséquent. Grow Lot à 49€/mois est plus accessible pour les indépendants."
+    answer: "Kadow Club est accessible à tout type de commerce, mais son tarif de 229€ HT/mois (sur 12 mois minimum) et sa complexité le rendent plus adaptés aux établissements avec un budget marketing conséquent. Grow Lot (dès 19 € HT/mois) est plus accessible pour les indépendants."
   - question: "Kadow Club génère-t-il des avis Google ?"
     answer: "Oui, via ses mécaniques de jetons et ses appels à l'action. Mais la collecte d'avis Google n'est pas le cœur du produit — Kadow Club se positionne davantage sur la fidélisation longue durée et le marketing automatisé."
 ---
 
 Kadow Club est l'un des acteurs les plus sophistiqués de la gamification en France : **+2 000 adhérents club**, 1 million de joueurs par mois, des clients comme McDonald's, Carrefour, Sushi Shop, O'Tacos ou le Grand Rex. Ils ont construit une vraie plateforme de jeux de fidélité — leaderboard, level map, jeu de plateau, jeux éphémères saisonniers.
 
-Grow Lot a un positionnement différent : une roue de la fortune 100 % gagnante, un filtre anti-avis négatifs, et une suite marketing tout-en-un à 49 €/mois. Plus simple, plus immédiat — mais moins spectaculaire visuellement.
+Grow Lot a un positionnement différent : une roue de la fortune 100 % gagnante, un filtre anti-avis négatifs, et une suite marketing accessible dès 19 € HT/mois (et 59 € HT/mois pour l'offre Performance tout-en-un). Plus simple, plus immédiat — mais moins spectaculaire visuellement.
 
 Lequel correspond à votre commerce ? Voilà un comparatif basé sur les données officielles de Kadow Club.
 
@@ -29,7 +29,7 @@ Lequel correspond à votre commerce ? Voilà un comparatif basé sur les donnée
 
 **Kadow Club** mise sur la **gamification long terme** : créer des clients "accros" qui reviennent pour progresser dans un jeu, débloquer des niveaux, grimper au classement. Leur philosophie est de transformer chaque visiteur en joueur engagé sur la durée — avec des jeux évolutifs (level map, boardgame, jeux éphémères Halloween, Noël, Saint-Valentin...) et un système de jetons qui récompense chaque action.
 
-**Grow Lot** mise sur la **réciprocité immédiate** : chaque client gagne d'abord, sans condition, puis reçoit naturellement une proposition d'avis ou d'action. Résultat : ~50 % de taux de conversion scan → action, sans avoir besoin de faire revenir le client plusieurs fois pour qu'il soit pleinement engagé.
+**Grow Lot** mise sur la **réciprocité immédiate** : chaque client gagne d'abord, sans condition, puis reçoit naturellement une proposition d'avis ou d'action. Résultat : des performances mesurables (jusqu'à +120 avis/mois en restauration ou +80 avis en moins de 20 jours), sans avoir besoin de faire revenir le client plusieurs fois pour qu'il soit pleinement engagé.
 
 Deux visions valides, deux publics différents.
 
@@ -48,20 +48,20 @@ Deux visions valides, deux publics différents.
 | Jeux éphémères saisonniers | ❌ | ✅ (Halloween, Noël...) |
 | Leaderboard / classement joueurs | ❌ | ✅ |
 | Filtre anti-avis négatifs | ✅ | ❌ |
-| Relances e-mail marketing | ✅ | ✅ (automatisé) |
+| Relances e-mail marketing | ✅ (email, SMS, WhatsApp en Performance) | ✅ (automatisé) |
 | Challenges ciblés | ✅ (CTA séquençables) | ✅ |
 | Collecte contacts (email + tel) | ✅ | ✅ |
 | Deeplinks (ouverture directe app) | ✅ | ❌ |
 | Multi-plateformes (Trustpilot, TripAdvisor…) | ✅ | ❌ (Google + réseaux) |
 | 10 CTA cumulables et séquençables | ✅ | 🔶 (via jetons) |
-| Audit GMB / SEO local | ✅ | ❌ |
-| Réponses IA aux avis | ✅ | ❌ |
+| Audit GMB / SEO local | ✅ (audit visibilité IA) | ❌ |
+| Réponses IA aux avis | ✅ (analyse IA des avis) | ❌ |
 | Système anti-triche | ✅ | ✅ |
 | Gros lots mutualisés fournis | ❌ | ✅ (via le club) |
 | Contenu UGC (photo/vidéo clients) | ❌ | ✅ (bientôt disponible) |
-| Supports physiques inclus | ✅ chevalets + 500 flyers | ✅ kit de communication |
+| Supports physiques inclus | ✅ Panneau de comptoir (500 flyers en Performance) | ✅ kit de communication |
 | Mise en place accompagnée | ✅ | ✅ (atelier 40-60 min) |
-| Prix mensuel | **49 €/mois** | **229 € HT/mois** (sur 12 mois) |
+| Prix mensuel | **19 € HT/mois** (Essentiel) / **59 € HT/mois** (Performance) | **229 € HT/mois** (sur 12 mois) |
 
 </div>
 
@@ -110,7 +110,7 @@ C'est probablement le point le plus déterminant pour la majorité des commerça
 
 **Kadow Club** : 229 € HT/mois sur 12 mois minimum (soit ~274 € TTC). Sur 24 mois : 183 € HT/mois. Sur 36 mois : 149 € HT/mois. Auxquels s'ajoutent le kit de communication et la mise en place.
 
-**Grow Lot** : 49 €/mois tout inclus — chevalets, 500 flyers, e-mail marketing, filtre anti-avis, assistant IA, audit GMB.
+**Grow Lot** : Dès 19 € HT/mois (Essentiel avec engagement annuel, ou 29 € HT/mois sans engagement) incluant le panneau de comptoir personnalisé, la carte de fidélité Wallet et 4 jeux hub. L'offre Performance à 59 € HT/mois (708 € HT/an, ou 79 € HT/mois sans engagement) ajoute 500 flyers, les relances email/SMS/WhatsApp, l'analyse IA des avis et l'audit de visibilité IA.
 
 Pour un restaurant indépendant qui fait 30 000 € de CA mensuel, l'arbitrage est clair : Grow Lot s'autofinance avec quelques clients fidélisés supplémentaires. Kadow Club nécessite un volume et un budget marketing suffisant pour que l'investissement soit rentable.
 
@@ -134,7 +134,7 @@ C'est un point d'égalité réelle. Les deux outils proposent des séquences d'e
 
 Kadow Club déclenche des e-mails : expiration de cadeau, anniversaire, joueur inactif ("ça fait longtemps qu'on vous a pas vu, on vous offre 3 jetons"), temps forts saisonniers, nouveaux jeux, alerte classement ("vous n'êtes plus dans le top 20").
 
-Grow Lot propose des relances e-mail automatiques : post-visite avec le lot gagné, anniversaires, clients silencieux, événements saisonniers, écoulement des invendus, relances ciblées.
+Grow Lot propose des relances marketing intégrées par email et SMS (et WhatsApp sur Performance) : post-visite avec le lot gagné, anniversaires, clients silencieux, événements saisonniers, écoulement des invendus, relances ciblées.
 
 La différence : Kadow Club utilise le jeu lui-même comme déclencheur de retour ("votre cadeau expire", "nouveau jeu disponible") — ce qui est plus addictif. Grow Lot est plus direct sur la valeur commerciale (rabais, lot, événement).
 
@@ -146,7 +146,7 @@ La différence : Kadow Club utilise le jeu lui-même comme déclencheur de retou
 
 **Choisissez Kadow Club si** vous gérez une enseigne ou une chaîne, que vous voulez créer une vraie addiction client long terme via des mécaniques de jeu sophistiquées (level map, boardgame, jeux saisonniers), et que vous avez le budget pour investir 229 € HT/mois minimum sur 12 mois. Les gros lots mutualisés sont un vrai différenciateur pour attirer de nouveaux joueurs.
 
-**Choisissez Grow Lot si** vous êtes un commerce indépendant ou une PME qui veut des résultats concrets et rapides : protéger sa note Google avec le filtre anti-avis négatifs, maximiser le taux de conversion scan → avis avec la roue 100 % gagnante, et accéder à une suite marketing complète à un prix accessible. L'offre à 49 €/mois à vie (futur 129 €/mois) est une fenêtre qui ne durera pas.
+**Choisissez Grow Lot si** vous êtes un commerce indépendant ou une PME qui veut des résultats concrets et rapides : protéger sa note Google avec le filtre anti-avis négatifs, booster la collecte d'avis avec la roue 100 % gagnante, et accéder à une suite marketing complète à un tarif très accessible (dès 19 € HT/mois en Essentiel ou 59 € HT/mois en Performance).
 
 Pour la **grande majorité des restaurateurs et commerçants indépendants**, Grow Lot offre le meilleur rapport impact/coût du marché — sans la complexité d'une plateforme pensée pour les grandes enseignes.
 
@@ -168,17 +168,17 @@ Pour la **grande majorité des restaurateurs et commerçants indépendants**, Gr
 
 <div class="faq-item">
   <p class="faq-q">Combien coûte Kadow Club ?</p>
-  <p class="faq-a">229 € HT/mois sur 12 mois (soit environ 274 € TTC). Des tarifs dégressifs existent sur 24 mois (183 € HT) ou 36 mois (149 € HT). Grow Lot est à 49 €/mois tout inclus.</p>
+  <p class="faq-a">229 € HT/mois sur 12 mois (soit environ 274 € TTC). Des tarifs dégressifs existent sur 24 mois (183 € HT) ou 36 mois (149 € HT). Grow Lot est accessible dès 19 € HT/mois (Essentiel) et à 59 € HT/mois pour l'offre Performance tout-en-un.</p>
 </div>
 
 <div class="faq-item">
   <p class="faq-q">Grow Lot propose-t-il une roue 100 % gagnante ?</p>
-  <p class="faq-a">Oui. Chez Grow Lot, chaque client repart systématiquement avec un lot garanti — sans probabilité, sans case malus. C'est ce qui génère le taux de conversion de ~50 % scan → avis.</p>
+  <p class="faq-a">Oui. Chez Grow Lot, chaque client repart systématiquement avec un lot garanti — sans probabilité, sans case malus. C'est ce qui permet d'obtenir des résultats rapides comme +80 avis en moins de 20 jours.</p>
 </div>
 
 <div class="faq-item">
   <p class="faq-q">Kadow Club convient-il aux petits commerces indépendants ?</p>
-  <p class="faq-a">Kadow Club est techniquement accessible à tout commerce, mais son tarif de 229 € HT/mois sur engagement 12 mois le rend plus adapté aux enseignes avec un budget marketing conséquent. Grow Lot à 49 €/mois est nettement plus accessible pour les indépendants.</p>
+  <p class="faq-a">Kadow Club est techniquement accessible à tout commerce, mais son tarif de 229 € HT/mois sur engagement 12 mois le rend plus adapté aux enseignes avec un budget marketing conséquent. Grow Lot (dès 19 € HT/mois en Essentiel et 59 € HT/mois en Performance) est nettement plus accessible pour les indépendants.</p>
 </div>
 
 <div class="faq-item">
