@@ -17,7 +17,7 @@ Les deux outils visent les commerçants, restaurateurs et indépendants françai
 | Critère | Grow Lot | Avis Flash |
 |---|---|---|
 | **Approche** | Gamification digitale (QR code + roue de récompenses) | Borne physique installée en point de vente |
-| **Prix de référence** | 49 €/mois (futur tarif annoncé 129 €/mois) | Lite à 179 €/mois, Premium à 199 €/mois, Multi-site sur devis |
+| **Prix de référence** | Dès 19 € HT/mois (Essentiel) — 59 € HT/mois tout inclus (Performance) | Lite à 179 €/mois, Premium à 199 €/mois, Multi-site sur devis |
 | **Essai / démo** | Inscription en ligne via lien suivi | Démo sur rendez-vous + démo en ligne |
 | **Matériel requis** | Aucun (QR code à afficher) | Borne / tablette installée physiquement |
 | **Mécanique de collecte** | Roue de la fortune 100 % gagnante → avis Google | Parcours guidé sur borne → avis Google depuis le smartphone |
@@ -46,9 +46,9 @@ Grow Lot ne nécessite aucune borne ou tablette physique. Un QR code affiché en
 
 ### Un prix bien plus accessible
 
-Grow Lot affiche un tarif de **49 €/mois**, avec un futur tarif annoncé à 129 €/mois pour les nouveaux clients. À ce prix, l'outil inclut la gamification, la collecte d'avis Google et la relance marketing. Il n'y a pas de palier intermédiaire à négocier.
+Grow Lot est facturé **dès 19 € HT/mois** (offre Essentiel, 29 € HT sans engagement) et propose l'offre complète **Performance à 59 € HT/mois** (79 € HT sans engagement) : gamification, collecte d'avis Google, relances email et SMS, panneau de comptoir personnalisé inclus. Pour les réseaux et franchises, l'offre Réseau se configure sur devis dès 3 établissements.
 
-À titre de comparaison, Avis Flash démarre à **179 €/mois** pour son offre Lite. L'écart de prix est de 3,6× — un facteur important pour une TPE ou un indépendant.
+À titre de comparaison, Avis Flash démarre à **179 €/mois** pour son offre Lite. L'écart de prix est de 3× sur l'offre complète Grow Lot, et jusqu'à 9× sur l'offre d'entrée — un facteur décisif pour une TPE ou un indépendant.
 
 ## Avis Flash : une borne premium pour capter l'avis au bon moment
 
@@ -78,7 +78,7 @@ L'entrée se fait par démonstration sur rendez-vous. Il n'y a pas d'offre gratu
 
 - **fidéliser vos clients**, pas seulement collecter des avis ;
 - démarrer rapidement sans installation physique de matériel ;
-- profiter d'un prix accessible (49 €/mois) adapté aux TPE ;
+- profiter d'un prix accessible dès 19 € HT/mois, adapté aux TPE ;
 - offrir une expérience ludique qui donne envie de revenir ;
 - combiner avis Google, gamification et relance SMS dans un seul outil.
 
@@ -94,7 +94,7 @@ L'entrée se fait par démonstration sur rendez-vous. Il n'y a pas d'offre gratu
 
 Il n'y a pas un gagnant universel, car **les deux outils ne résolvent pas exactement le même problème**.
 
-**Grow Lot** est le bon choix si votre priorité est la **fidélisation** : faire revenir les clients, créer une habitude et collecter des avis dans un parcours ludique. Son prix de 49 €/mois le rend accessible et son déploiement ne demande aucune installation.
+**Grow Lot** est le bon choix si votre priorité est la **fidélisation** : faire revenir les clients, créer une habitude et collecter des avis dans un parcours ludique. Son tarif d'entrée à 19 € HT/mois le rend accessible et son déploiement ne demande aucune installation.
 
 **Avis Flash** est plus pertinent si votre priorité est la **collecte d'avis via un dispositif premium en magasin**. La borne physique a une valeur dans les contextes immersifs où l'expérience in-situ compte. Mais le prix (179-199 €/mois) et l'absence de programme de fidélité en font un investissement ciblé, pas un outil tout-en-un.
 
@@ -120,7 +120,7 @@ Pour un restaurant où la fréquence de visite est clé, Grow Lot est générale
 
 **Puis-je utiliser les deux solutions ?**
 
-Oui, mais c'est rarement nécessaire. Si vous voulez à la fois une borne physique et un programme de fidélité, Avis Flash gère la borne et Grow Lot gère la fidélisation. Le coût cumulé (49 € + 179 € = 228 €/mois minimum) doit être justifié par un volume d'activité suffisant.
+Oui, mais c'est rarement nécessaire. Si vous voulez à la fois une borne physique et un programme de fidélité, Avis Flash gère la borne et Grow Lot gère la fidélisation. Le coût cumulé (19 € + 179 € = 198 €/mois minimum) doit être justifié par un volume d'activité suffisant.
 
 **La borne Avis Flash est-elle plus efficace qu'un QR code Grow Lot ?**
 
@@ -128,8 +128,8 @@ Tout dépend du contexte. La borne capte l'avis au moment précis de la satisfac
 
 ## Ressources et liens utiles
 
-- <a href="https://taap.it/RYNFv38?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
-- <a href="https://taap.it/jtQJUGy?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte Grow Lot</a>
+- <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
+- <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte Grow Lot</a>
 - [Site officiel Avis Flash](https://avis-flash.com)
 - [Avis Flash — Demander une démo](https://avis-flash.com/fr/index.html)
 

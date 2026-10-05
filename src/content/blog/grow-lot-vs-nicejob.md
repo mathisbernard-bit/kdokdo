@@ -8,11 +8,11 @@ faq:
   - question: "NiceJob est-il disponible en français ?"
     answer: "NiceJob est une plateforme essentiellement anglophone (Etats-Unis, Canada). L'interface et le support sont en anglais. Il n'existe pas de version française localisée. Grow Lot est une solution française, avec support en français et interface pensée pour les commerçants francophones."
   - question: "Quel est le prix de NiceJob en 2026 ?"
-    answer: "NiceJob propose un plan Starter à 75 $ USD/mois (environ 70 €) et un plan Pro à un tarif supérieur. Grow Lot coûte 49 €/mois tout compris, soit environ 30 % de moins que l'entrée de gamme NiceJob."
+    answer: "NiceJob propose un plan Starter à 75 $ USD/mois (environ 70 €) et un plan Pro à un tarif supérieur. Grow Lot est accessible dès 19 € HT/mois (offre Essentiel, 29 € sans engagement) et propose l'offre complète Performance à 59 € HT/mois — soit jusqu'à 73 % de moins que l'entrée de gamme NiceJob."
   - question: "NiceJob propose-t-il une roue de la fortune ou de la gamification ?"
     answer: "Non. NiceJob repose sur l'automatisation SMS/email (drip campaigns) pour collecter les avis. Il n'y a aucun élément de gamification (roue, jeu, récompenses). Grow Lot intègre la gamification comme cœur de sa solution : roue 100 % gagnante, mini-jeux, badges."
   - question: "NiceJob inclut-il des supports physiques (QR codes, chevalets) ?"
-    answer: "Non. NiceJob est une plateforme 100 % digitale : elle fonctionne via SMS et email automatisés. Il n'y a pas de QR codes physiques, chevalets ou flyers fournis. Grow Lot inclut QR codes dynamiques, chevalets et 500 flyers pré-imprimés dans son forfait."
+    answer: "Non. NiceJob est une plateforme 100 % digitale : elle fonctionne via SMS et email automatisés. Il n'y a pas de QR codes physiques ou flyers fournis. Grow Lot inclut un panneau de comptoir personnalisé avec QR code dynamique dans chaque offre, et 500 flyers avec l'offre Performance."
   - question: "NiceJob filtre-t-il les avis négatifs ?"
     answer: "Partiellement. NiceJob propose un système de feedback interne conforme aux règles Google : le client donne d'abord une note, et s'il est insatisfait, il est redirigé vers un formulaire privé. Grow Lot applique un filtre similaire en redirigeant les avis 1-3 étoiles vers un canal de résolution privé."
   - question: "NiceJob convient-il aux restaurants et commerces de proximité ?"
@@ -83,8 +83,8 @@ Voici le comparatif complet.
 | Intégrations CRM tierces | ❌ (CRM natif) | ✅ (Jobber, HouseCall Pro, QuickBooks, Xero, Zapier 9 000+) |
 | **SUPPORT & PRIX** | | |
 | Essai gratuit | Démo gratuite | ✅ 14 jours (sans CB) |
-| Plan d'entrée | **49 €/mois** | **75 $/mois (~70 €)** |
-| Tarif pro | 99 €/mois | Sur devis |
+| Plan d'entrée | **dès 19 € HT/mois** | **75 $/mois (~70 €)** |
+| Tarif pro | 59 € HT/mois (Performance) | Sur devis |
 | Engagement | Sans engagement | Mensuel, sans engagement |
 | Support client | En français | En anglais |
 | Localisation | 🇫🇷 France | 🇺🇸 / 🇨🇦 Amérique du Nord |
@@ -103,7 +103,7 @@ Cette approche est redoutable pour les **services à domicile** (plomberie, chau
 
 ### Grow Lot : la gamification sur place
 
-Grow Lot prend le contre-pied : elle capte l'avis **au moment où le client est dans votre établissement**. Le client scanne un QR code posé sur un chevalet, tourne une roue de la fortune 100 % gagnante, gagne une récompense, puis est invité à laisser un avis Google.
+Grow Lot prend le contre-pied : elle capte l'avis **au moment où le client est dans votre établissement**. Le client scanne le QR code du panneau de comptoir, tourne une roue de la fortune 100 % gagnante, gagne une récompense, puis est invité à laisser un avis Google.
 
 La réciprocité est immédiate : « tu me laisses un avis, je te donne une récompense ». Le taux scan → avis est d'environ 50 % selon Grow Lot.
 
@@ -257,7 +257,7 @@ NiceJob gagne sur les intégrations pour les services qui utilisent déjà un CR
 
 ---
 
-## 8. Tarifs : Grow Lot 49 € vs NiceJob 75 $
+## 8. Tarifs : Grow Lot dès 19 € HT/mois vs NiceJob 75 $
 
 ### NiceJob
 
@@ -268,16 +268,17 @@ NiceJob gagne sur les intégrations pour les services qui utilisent déjà un CR
 
 ### Grow Lot
 
-- **Essentiel** : 49 €/mois — roue, filtre anti-avis négatifs, CRM, email + SMS, supports physiques inclus
-- **Pro** : 99 €/mois — pour multi-sites / franchises
+- **Essentiel** : 19 € HT/mois (29 € sans engagement) — 4 jeux réunis dans un hub, participations illimitées, 2 actions au choix, carte de fidélité Apple et Google Wallet, base clients exportable, panneau de comptoir inclus
+- **Performance** : 59 € HT/mois (79 € sans engagement) — actions illimitées, fiche Google connectée et réponses aux avis, 5 000 emails/mois + SMS et WhatsApp, analyse IA des avis, audit de visibilité IA
+- **Réseau** : sur devis, dès 3 établissements — supports physiques inclus pour chaque site
 - **Démonstration** : gratuite sur demande
-- Sans engagement
+- Sans engagement possible
 
 ### Comparatif prix
 
 | Critère | Grow Lot | NiceJob |
 |---|---|---|
-| Prix d'entrée | **49 €/mois** | ~70 €/mois (75 $) |
+| Prix d'entrée | **dès 19 € HT/mois** | ~70 €/mois (75 $) |
 | Tout inclus dans le plan de base | ✅ | ❌ (fonctions pro séparées) |
 | Supports physiques inclus | ✅ | ❌ |
 | SMS illimités | Via forfait | Inclus dans l'automation |
@@ -308,9 +309,9 @@ NiceJob gagne sur les intégrations pour les services qui utilisent déjà un CR
 ✓ Vous avez besoin d'un **CRM + email marketing** intégré pour fidéliser
 ✓ Vous voulez **protéger votre note Google** (filtre anti-avis négatifs)
 ✓ Vous êtes en **France** et voulez un support en français
-✓ Vous voulez **tout inclus à 49 €/mois** sans surprise
+✓ Vous voulez **tout inclus dès 19 € HT/mois** sans surprise
 
-**Exemple :** Un restaurant à Lyon place 3 chevalets avec QR codes. En 4 mois, 320 clients scannent, 160 laissent un avis 4-5 ⭐. La note Google passe de 4,1 à 4,4. Le CRM capte 320 contacts pour des relances email automatiques : +18 % de clients récurrents en 4 mois.
+**Exemple :** Un restaurant à Lyon déploie le panneau de comptoir et ses QR codes dynamiques. En 4 mois, 320 clients scannent, 160 laissent un avis 4-5 ⭐. La note Google passe de 4,1 à 4,4. Le CRM capte 320 contacts pour des relances email automatiques : +18 % de clients récurrents en 4 mois.
 
 ---
 
@@ -336,7 +337,7 @@ R: Non. NiceJob se concentre sur la collecte d'avis et le parrainage. Il n'y a p
 
 **Q: Lequel est le moins cher ?**
 
-R: Grow Lot à 49 €/mois est environ 30 % moins cher que NiceJob Starter à 75 $/mois (~70 €). Et Grow Lot inclut plus de fonctionnalités dans son plan de base (CRM, email, supports physiques). NiceJob réserve ses fonctionnalités avancées (parrainage, IA) aux plans supérieurs.
+R: Grow Lot est accessible dès 19 € HT/mois (offre Essentiel) et à 59 € HT/mois tout compris (offre Performance), contre environ 70 €/mois pour NiceJob Starter : jusqu'à 73 % moins cher en entrée de gamme. Et Grow Lot inclut CRM, relances et supports physiques dès l'offre Essentiel. NiceJob réserve ses fonctionnalités avancées (parrainage, IA) aux plans supérieurs.
 
 **Q: NiceJob publie-t-il les avis sur les réseaux sociaux automatiquement ?**
 
@@ -374,7 +375,7 @@ R: NiceJob. L'automatisation SMS post-intervention est idéale pour les services
 
 ### 🎯 Approfondissez maintenant
 
-[👉 Découvrir Grow Lot en détail](https://taap.it/RYNFv38) | [S'inscrire gratuitement](https://taap.it/jtQJUGy)
+[👉 Découvrir Grow Lot en détail](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir) | [S'inscrire gratuitement](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription)
 
 ---
 
