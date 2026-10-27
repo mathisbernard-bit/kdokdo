@@ -8,11 +8,11 @@ faq:
   - question: "Trustmary est-il gratuit ?"
     answer: "Trustmary propose un plan freemium limité, puis des plans payants à partir de 39 €/mois. Le plan professionnel (79 €/mois) est nécessaire pour accéder à toutes les fonctionnalités."
   - question: "Quel est le tarif exact de Trustmary vs Grow Lot ?"
-    answer: "Trustmary coûte 79 €/mois en plan professionnel. Grow Lot coûte 49 €/mois (offre à vie) — soit 30 € de plus par mois chez Trustmary pour des fonctionnalités partiellement différentes."
+    answer: "Trustmary coûte 79 €/mois en plan professionnel. Grow Lot propose l'offre Essentiel dès 19 € HT/mois (29 € sans engagement) et l'offre Performance à 59 € HT/mois (79 € sans engagement). Grow Lot est ainsi 20 à 60 €/mois moins cher que Trustmary Pro."
   - question: "Trustmary offre-t-il la gamification comme Grow Lot ?"
     answer: "Non. Trustmary est axé sur la collecte et l'affichage d'avis. Il n'a pas de roue de la fortune, de jeux ou de mécaniques de gamification. Grow Lot les inclut."
   - question: "Peut-on automatiser les relances marketing chez Trustmary ?"
-    answer: "Partiellement. Trustmary propose des workflows basiques pour envoyer des demandes d'avis. Grow Lot offre un système d'e-mail marketing complèt avec segmentation et CTA multiples."
+    answer: "Partiellement. Trustmary propose des workflows basiques pour envoyer des demandes d'avis. Grow Lot offre des relances email et SMS intégrées (et WhatsApp sur Performance) avec segmentation et actions évolutives."
   - question: "Trustmary génère-t-il du contenu utilisateur (UGC) ?"
     answer: "Oui, c'est sa force principale. Trustmary excelle dans la collecte et la réutilisation de contenu utilisateur pour les pages produits et les réseaux sociaux."
   - question: "Grow Lot est-il meilleur pour le commerce physique ?"
@@ -23,7 +23,7 @@ Vous cherchez un outil pour augmenter votre nombre d'avis et fidéliser vos clie
 
 **Trustmary** est un spécialiste de la collecte d'avis et du contenu utilisateur (UGC), surtout pour l'e-commerce. Avec un accent sur la réutilisation de photos/vidéos de clients pour le marketing.
 
-**Grow Lot** est une suite complète de fidélisation pour commerces physiques : roue de la fortune, filtre anti-avis, e-mail marketing et supports physiques, tout inclus.
+**Grow Lot** est une suite complète de fidélisation pour commerces physiques : roue de la fortune et hub de 4 jeux, carte de fidélité Apple/Google Wallet, filtre anti-avis, relances email et SMS (WhatsApp sur Performance) et supports physiques inclus.
 
 Voyons qui gagne sur les critères qui importent vraiment.
 
@@ -33,7 +33,7 @@ Voyons qui gagne sur les critères qui importent vraiment.
 
 **Trustmary** est une plateforme de gestion des avis avec focus sur l'UGC (User-Generated Content). Elle collecte les avis et les photos/vidéos clients, puis les réutilise pour les pages produits et réseaux sociaux. Tarif : 79 €/mois en plan professionnel (plan freemium limité à partir de 39 €/mois).
 
-**Grow Lot** est une suite de fidélisation orientée commerce physique : roue de la fortune 100% gagnante + filtre anti-avis négatifs + e-mail marketing + 10 CTA cumulables + IA (Pixmo) + supports physiques inclus. Tarif fixe : 49 €/mois (offre à vie garantie).
+**Grow Lot** est une suite de fidélisation orientée commerce physique : roue de la fortune 100% gagnante et hub de 4 jeux + cartes de fidélité Apple et Google Wallet + filtre anti-avis négatifs + relances email et SMS (WhatsApp sur Performance) + analyse IA des avis, 20 visuels IA/mois, audit de visibilité IA + panneau de comptoir inclus (et 500 flyers avec Performance). Tarifs : Essentiel dès 19 € HT/mois (29 € sans engagement), Performance à 59 € HT/mois (79 € sans engagement).
 
 ---
 
@@ -48,27 +48,27 @@ Voyons qui gagne sur les critères qui importent vraiment.
 | Filtre anti-avis négatifs | ✅ | ❌ |
 | Collecte d'avis + contenu (photos/vidéos) | ✅ (avis simples) | ✅ (spécialité UGC) |
 | Réutilisation d'avis sur réseaux sociaux | ✅ | ✅ (automatisée) |
-| E-mail marketing automatisé | ✅ | ❌ (workflow de base seulement) |
+| Relances marketing (Email, SMS, WhatsApp) | ✅ Email et SMS intégrés (WhatsApp sur Performance) | ❌ (workflow de base seulement) |
 | SMS/WhatsApp marketing | ✅ | ❌ |
 | Appels à l'action (CTA) multiples | ✅ 10 CTA cumulables | ❌ |
 | Deeplinks (app mobile) | ✅ | ❌ |
 | QR code intégré | ✅ | ✅ (basique) |
 | Intégration e-commerce | ❌ (physique surtout) | ✅ (spécialisé) |
 | Dashboard d'analytics | ✅ | ✅ |
-| Réponses IA aux avis | ✅ (Pixmo) | ✅ (via AI) |
-| Supports physiques (chevalets, flyers) | ✅ Inclus | ❌ |
+| Réponses et analyse IA des avis | ✅ Fiche Google connectée, analyse IA | ✅ (via AI) |
+| Supports physiques | ✅ Panneau comptoir inclus partout, 500 flyers avec Performance | ❌ |
 | Système anti-triche | ✅ | ❌ |
-| **Prix mensuel** | **49 €/mois** | **79 €/mois (pro)** |
+| **Prix mensuel** | **Essentiel dès 19 € HT/mois, Performance à 59 € HT/mois** | **79 €/mois (pro)** |
 
 </div>
 
 ---
 
-## 1. Le faux débat du prix : Trustmary coûte 60% plus cher
+## 1. Le comparatif de prix : Grow Lot jusqu'à 4 fois moins cher
 
-Trustmary affiche 79 €/mois (plan professionnel) pour accéder à toutes les fonctionnalités. Grow Lot coûte 49 €/mois. 
+Trustmary affiche 79 €/mois (plan professionnel) pour accéder à toutes ses fonctionnalités. Grow Lot propose son offre Essentiel dès 19 € HT/mois (29 € HT/mois sans engagement) et son offre tout inclus Performance à 59 € HT/mois (79 € HT/mois sans engagement).
 
-**Cela veut dire que Trustmary coûte 30 €/mois de plus** — soit **600 euros par an** d'écart.
+**Cela veut dire que Grow Lot Essentiel est jusqu'à 4 fois moins cher que Trustmary Pro**, et même l'offre Performance (59 € HT/mois) reste 20 €/mois moins chère que Trustmary Pro tout en incluant des supports physiques et un dispositif complet de fidélisation.
 
 Chez quel est ce surcoût justifié ? Seulement si Trustmary offre significativement plus de valeur. Voyons.
 
@@ -80,7 +80,7 @@ Trustmary propose un plan "freemium" à 39 €/mois — soit 10 euros de moins q
 - Réseaux sociaux limités (seulement 2-3 canaux)
 - Pas de support prioritaire
 
-Pour accéder à la vraie plateforme (plan Pro à 79 €/mois), vous finissez à payer 60% plus cher que Grow Lot.
+Pour accéder à la vraie plateforme chez Trustmary (plan Pro à 79 €/mois), vous finissez par payer beaucoup plus cher qu'avec Grow Lot Essentiel (19 € HT/mois) ou Performance (59 € HT/mois).
 
 ---
 
@@ -101,13 +101,13 @@ Si vous êtes en e-commerce et que vous avez besoin que vos clients produisent d
 
 Grow Lot collecte les avis, mais c'est loin d'être son arme principale. Son vrai pouvoir :
 
-**1. Roue de la fortune** : un mécanisme de jeu qui crée une expérience mémorable. Les clients ne viennent pas juste pour un avis — ils viennent pour jouer et gagner. Le taux de conversion (scan → avis) est de 50%.
+**1. Roue de la fortune et hub 4 jeux** : un mécanisme de jeu 100 % gagnant (+100 entreprises accompagnées et +10 000 avis collectés, avec +120 avis Google/mois et +20 % de CA en restauration). Les clients ne viennent pas juste pour un avis — ils viennent pour jouer, gagner et enregistrer leur carte de fidélité Wallet.
 
 **2. Filtre anti-avis** : les avis 1-3 étoiles ne vont pas directement sur Google. Vous avez le temps de résoudre le problème en interne avant qu'un avis négatif devienne une trace numérique permanente. Trustmary n'offre rien de comparable.
 
-**3. E-mail marketing avancé** : une fois que vous avez les contacts (mail + téléphone), Grow Lot déclenche automatiquement des campagnes ciblées pour faire revenir les clients. Trustmary arrête à la collecte d'avis.
+**3. Relances marketing multi-canaux** : une fois les contacts collectés (email + téléphone), Grow Lot déclenche des relances email et SMS intégrées (et WhatsApp sur Performance) pour faire revenir vos clients.
 
-**4. Supports physiques** : chevalets de comptoir et 500 flyers inclus. Trustmary n'offre rien de physique.
+**4. Supports physiques inclus** : panneau de comptoir personnalisé inclus dans toutes les offres, et 500 flyers inclus avec le plan Performance. Trustmary n'offre aucun support physique.
 
 ---
 
@@ -125,11 +125,11 @@ Grow Lot collecte les avis, mais c'est loin d'être son arme principale. Son vra
 
 ✅ **Commerce physique** : restaurant, salon, boutique, magasin — Grow Lot est conçu pour cet usage.
 
-✅ **Fidélisation active** : vous ne voulez pas juste des avis, vous voulez que les clients reviennent. La roue de fortune + e-mail marketing = redynamisation des visites.
+✅ **Fidélisation active** : vous ne voulez pas juste des avis, vous voulez que les clients reviennent. La roue de fortune, le hub de 4 jeux et les relances email/SMS/WhatsApp redynamisent les visites.
 
 ✅ **Protéger la réputation Google** : si votre note GMB est critique, le filtre anti-avis de Grow Lot vaut seul l'abonnement.
 
-✅ **Budget serré** : 49 € vs 79 € — Grow Lot est 38% moins cher.
+✅ **Budget maîtrisé** : 19 € (Essentiel) ou 59 € (Performance) vs 79 € chez Trustmary Pro — Grow Lot offre un rapport valeur/prix nettement supérieur.
 
 ---
 
@@ -154,7 +154,7 @@ Trustmary est plus " plateforme sociale ". Grow Lot est plus " écosystème comm
 
 **Trustmary** : support par e-mail, temps de réponse 24-48h, documentation en anglais/suédois principalement.
 
-**Grow Lot** : support français réactif (Mathis et l'équipe répondent en < 24h), onboarding dédié, webinaires réguliers pour commerçants.
+**Grow Lot** : support français réactif (équipe dédiée et support prioritaire sur Performance), onboarding personnalisé, conseils réguliers pour commerçants.
 
 Pour un commercial français, **Grow Lot gagne**.
 
@@ -166,7 +166,7 @@ Pour un commercial français, **Grow Lot gagne**.
 
 **Choisissez Trustmary si** vous êtes en e-commerce, que vous avez besoin de belles photos/vidéos de clients pour vos fiches produits et réseaux sociaux, et que le budget de 79 €/mois ne vous pose pas problème.
 
-**Choisissez Grow Lot si** vous êtes commerçant physique, que vous cherchez à fidéliser vos clients via une expérience engageante (roue), protéger votre réputation Google, et maximiser les relances marketing — tout en payant 38% moins cher.
+**Choisissez Grow Lot si** vous êtes commerçant physique, que vous cherchez à fidéliser vos clients via une expérience engageante (roue, 4 jeux hub, cartes Apple/Google Wallet), protéger votre réputation Google, et maximiser les relances marketing (email, SMS, WhatsApp) — le tout avec des formules très accessibles (dès 19 € HT/mois en Essentiel, 59 € HT/mois en Performance).
 
 **En pratique :** ces deux outils répondent à des besoins différents.
 - **Trustmary** = machine à produire du contenu utilisateur pour l'e-commerce.
@@ -177,8 +177,8 @@ Si vous êtes sur le web et que l'UGC est votre besoin principal, Trustmary a du
 </div>
 
 <div class="cta-block">
-  <a href="https://taap.it/RYNFv38?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
-  <a href="https://taap.it/jtQJUGy?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte gratuit</a>
+  <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
+  <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte gratuit</a>
 </div>
 
 ---
@@ -192,7 +192,7 @@ Si vous êtes sur le web et que l'UGC est votre besoin principal, Trustmary a du
 
 <div class="faq-item">
   <p class="faq-q">Quel est le tarif exact de Trustmary vs Grow Lot ?</p>
-  <p class="faq-a">Trustmary coûte 79 €/mois en plan professionnel. Grow Lot coûte 49 €/mois (offre à vie) — soit 30 € de plus par mois chez Trustmary pour des fonctionnalités partiellement différentes.</p>
+  <p class="faq-a">Trustmary coûte 79 €/mois en plan professionnel. Grow Lot propose l'offre Essentiel dès 19 € HT/mois (29 € sans engagement) et l'offre Performance à 59 € HT/mois (79 € sans engagement). Grow Lot est ainsi 20 à 60 €/mois moins cher que Trustmary Pro.</p>
 </div>
 
 <div class="faq-item">
@@ -202,7 +202,7 @@ Si vous êtes sur le web et que l'UGC est votre besoin principal, Trustmary a du
 
 <div class="faq-item">
   <p class="faq-q">Peut-on automatiser les relances marketing chez Trustmary ?</p>
-  <p class="faq-a">Partiellement. Trustmary propose des workflows basiques pour envoyer des demandes d'avis. Grow Lot offre un système d'e-mail marketing complèt avec segmentation et CTA multiples.</p>
+  <p class="faq-a">Partiellement. Trustmary propose des workflows basiques pour envoyer des demandes d'avis. Grow Lot offre des relances email et SMS intégrées (et WhatsApp sur Performance) avec segmentation et actions évolutives.</p>
 </div>
 
 <div class="faq-item">

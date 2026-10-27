@@ -19,16 +19,16 @@ Ce comparatif s'appuie sur les informations publiques consultées le 11 août 20
 | Critère | Grow Lot | RushUp |
 |---|---|---|
 | **Positionnement** | Fidélisation, gamification et marketing local | Jeu gamifié pour avis Google et fidélisation |
-| **Prix de référence** | 49 €/mois actuellement ; futur tarif annoncé de 129 €/mois | Offre gratuite annoncée ; formule payante à partir de 39 € HT/mois en mensuel ou 29 € HT/mois en annuel, selon les informations publiques consultées |
+| **Prix de référence** | Essentiel dès 19 € HT/mois (29 € sans engagement), Performance à 59 € HT/mois (79 € sans engagement) | Offre gratuite annoncée ; formule payante à partir de 39 € HT/mois en mensuel ou 29 € HT/mois en annuel, selon les informations publiques consultées |
 | **Démarrage** | Inscription via lien suivi | Création d'un jeu annoncée gratuitement |
-| **Jeu / roue** | Roue de récompenses 100 % gagnante | Jeu gamifié accessible par QR code, avec roue selon l'offre ou le parcours choisi |
+| **Jeu / roue** | Hub de 4 jeux réunis (dont roue 100 % gagnante) et carte de fidélité Apple/Google Wallet | Jeu gamifié accessible par QR code, avec roue selon l'offre ou le parcours choisi |
 | **Collecte d'avis Google** | Intégrée à l'expérience de récompense | Fonction centrale de la plateforme |
-| **Réponses aux avis** | Assistant IA Pixmo inclus selon l'offre | Réponses aux avis assistées par IA |
+| **Réponses aux avis** | Fiche Google connectée, réponses et analyse IA des avis (Performance) | Réponses aux avis assistées par IA |
 | **Rappels automatiques** | Parcours et relances marketing | Rappels automatiques mis en avant par RushUp |
 | **Fichier clients** | Collecte et segmentation selon le parcours | Fichier clients présenté comme fonctionnalité |
 | **Application mobile** | Non présenté comme fonctionnalité principale | Application mobile disponible pour les établissements équipés |
-| **SMS / email marketing** | Email et actions marketing selon l'offre | Fonctionnalités marketing et relances à vérifier selon le plan |
-| **Supports physiques** | Chevalet et supports de campagne selon l'offre | QR code et supports proposés selon l'offre |
+| **SMS / email marketing** | Relances email et SMS intégrées (WhatsApp sur Performance) | Fonctionnalités marketing et relances à vérifier selon le plan |
+| **Supports physiques** | Panneau de comptoir inclus partout (500 flyers avec Performance) | QR code et supports proposés selon l'offre |
 | **Pour qui ?** | Commerce qui veut créer une habitude de retour | Restaurant ou commerce qui veut accélérer sa collecte d'avis avec un jeu |
 
 ## RushUp : un parcours gamifié centré sur l'avis Google
@@ -49,21 +49,21 @@ L'application mobile permet également de piloter l'activité depuis son télép
 
 RushUp annonce une formule gratuite pour démarrer. Une page comparative publiée sur le site de RushUp mentionne ensuite un premier niveau payant à **39 € HT/mois en mensuel**, ou **29 € HT/mois en annuel**. Ces montants sont à confirmer auprès de RushUp, notamment pour connaître les limites de la formule gratuite et les éventuels frais liés aux campagnes ou aux options.
 
-Cette entrée de gamme est inférieure au prix actuel annoncé de Grow Lot, fixé à **49 €/mois**. Mais le prix ne doit pas être le seul critère : la question est de savoir si vous cherchez surtout à générer des avis ou à construire un dispositif de fidélisation plus large.
+Cette entrée de gamme chez RushUp (29 € HT/mois en annuel) est comparable au tarif d'entrée de Grow Lot Essentiel (19 € HT/mois avec engagement, 29 € HT/mois sans engagement), tandis que la suite Performance tout inclus est proposée à 59 € HT/mois (79 € sans engagement). Mais le prix ne doit pas être le seul critère : la question est de savoir si vous cherchez surtout à générer des avis ou à construire un dispositif de fidélisation plus large.
 
 ## Grow Lot : transformer la collecte en fidélisation
 
 ### Une récompense qui crée un vrai moment en point de vente
 
-Grow Lot s'appuie sur une roue de récompenses **100 % gagnante**. Le client ne voit pas uniquement une demande d'avis : il participe à une animation, gagne une récompense et associe cette expérience à l'établissement.
+Grow Lot (+100 entreprises accompagnées, +10 000 avis collectés et 94 % de clients satisfaits) s'appuie sur une roue de récompenses **100 % gagnante** et un hub de 4 jeux. Le client ne voit pas uniquement une demande d'avis : il participe à une animation, gagne une récompense et associe cette expérience à l'établissement.
 
-Cette mécanique est pertinente pour les commerces qui peuvent placer un chevalet, une affiche ou un QR code à un endroit visible. Elle donne à l'équipe un discours simple : « Scannez, participez et découvrez votre récompense. »
+Cette mécanique est pertinente pour les commerces qui peuvent installer un panneau de comptoir personnalisé (inclus dans toutes les offres Grow Lot) ou distribuer des flyers (500 flyers inclus avec Performance). Elle donne à l'équipe un discours simple : « Scannez, participez et découvrez votre récompense. »
 
 ### Une logique plus large que l'avis Google
 
 Là où RushUp est particulièrement spécialisé dans le parcours jeu → avis, Grow Lot cherche à prolonger la relation : collecte de contacts, relances, appels à l'action et segmentation peuvent servir à faire revenir les clients après leur première participation.
 
-Grow Lot annonce actuellement un prix de **49 €/mois**, avec un futur tarif de **129 €/mois** pour les nouvelles souscriptions. Pour connaître l'offre disponible et les fonctionnalités incluses, consultez les liens suivis en fin d'article.
+Grow Lot propose deux formules claires : l'offre Essentiel dès 19 € HT/mois (29 € HT/mois sans engagement) pour démarrer la fidélisation, et l'offre Performance à 59 € HT/mois (79 € HT/mois sans engagement) pour bénéficier d'une suite tout inclus avec carte de fidélité Apple/Google Wallet et relances multi-canaux. Pour connaître l'offre disponible et les fonctionnalités incluses, consultez les liens suivis en fin d'article.
 
 ## Les vraies différences entre Grow Lot et RushUp
 
@@ -85,7 +85,7 @@ Grow Lot est plus adapté si vous voulez faire de cette animation un rendez-vous
 
 Avec son offre gratuite annoncée et son premier plan public à 29 € HT/mois en annuel, RushUp est séduisant pour tester la mécanique avec un risque limité. Vérifiez cependant les quotas inclus et les coûts d'options avant de calculer votre ROI.
 
-Grow Lot coûte actuellement 49 €/mois, mais son intérêt se mesure à l'ensemble du dispositif inclus. Si vous utilisez réellement les relances, les récompenses et les outils de fidélisation, l'écart de prix peut être plus facile à justifier qu'une comparaison basée uniquement sur le tarif d'appel.
+Grow Lot débute dès 19 € HT/mois (Essentiel) et propose sa suite tout inclus Performance à 59 € HT/mois. Son intérêt se mesure à l'ensemble du dispositif inclus (panneau de comptoir, 500 flyers en Performance, cartes de fidélité Apple et Google Wallet, relances email et SMS intégrées, WhatsApp sur Performance). Si vous utilisez réellement les relances, les jeux et les outils de fidélisation, le rapport valeur/prix est particulièrement avantageux.
 
 ## Quel outil choisir selon votre objectif ?
 
@@ -102,7 +102,7 @@ Grow Lot coûte actuellement 49 €/mois, mais son intérêt se mesure à l'ense
 - créer une animation de fidélité visible et 100 % gagnante ;
 - faire revenir vos clients, au-delà de la seule collecte d'avis ;
 - combiner récompenses, collecte de contacts et actions marketing ;
-- disposer d'un prix actuel de 49 €/mois avec l'offre Grow Lot annoncée ;
+- bénéficier d'un tarif très accessible dès 19 € HT/mois (Essentiel) ou d'une suite Performance tout inclus à 59 € HT/mois ;
 - construire un parcours plus large de fidélisation et de marketing local.
 
 ## Verdict : RushUp pour démarrer par les avis, Grow Lot pour construire la rétention
@@ -117,7 +117,7 @@ En résumé : **choisissez RushUp pour activer rapidement un jeu d'avis Google ;
 
 **RushUp est-il gratuit ?**
 
-RushUp annonce une formule gratuite pour créer son jeu. Les limites exactes de cette formule doivent être vérifiées auprès de l'éditeur avant le lancement.
+RushUp annonce une formule gratuite pour créer son jeu. Les limites exactes de cette formule doivent être vérifiées auprès de l'éditeur avant de vous lancer.
 
 **Combien coûte RushUp ?**
 
@@ -125,7 +125,7 @@ Les informations publiques consultées mentionnent une formule payante à 39 €
 
 **Grow Lot est-il plus cher que RushUp ?**
 
-Le prix actuel annoncé de Grow Lot est de 49 €/mois. RushUp affiche une entrée gratuite puis un premier niveau payant inférieur. La bonne comparaison dépend toutefois des quotas, des options et des outils marketing dont vous avez réellement besoin.
+Non. Avec son offre Essentiel dès 19 € HT/mois (29 € HT/mois sans engagement), Grow Lot est même moins cher que la première formule payante de RushUp (29 à 39 € HT/mois). Pour accéder à la suite tout inclus, Grow Lot Performance est proposé à 59 € HT/mois (79 € HT/mois sans engagement). La bonne comparaison dépend des outils inclus : cartes de fidélité Apple/Google Wallet, hub 4 jeux, relances email/SMS/WhatsApp et supports physiques fournis.
 
 **Les deux outils utilisent-ils un QR code ?**
 
@@ -145,8 +145,8 @@ C'est possible, mais le doublon risque de compliquer le parcours et le suivi. Co
 
 ## Ressources et liens utiles
 
-- <a href="https://taap.it/RYNFv38?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
-- <a href="https://taap.it/jtQJUGy?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte Grow Lot</a>
+- <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=decouvrir" class="cta-btn" rel="nofollow sponsored" target="_blank">→ Découvrir Grow Lot</a>
+- <a href="https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription" class="cta-btn secondary" rel="nofollow sponsored" target="_blank">Créer un compte Grow Lot</a>
 - [Site officiel RushUp](https://rushup.fr)
 - [Blog RushUp](https://rushup.fr/blog/)
 

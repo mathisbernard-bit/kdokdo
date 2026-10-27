@@ -6,17 +6,17 @@ tags: ["fidélisation", "comparatif", "Cadeo", "Grow Lot", "avis Google", "roue 
 author: "Thomas Remy"
 faq:
   - question: "Cadeo est-il gratuit ?"
-    answer: "Cadeo propose une période d'essai gratuite, puis un tarif de base + surcoûts pour l'IA (20 €/mois supplémentaires)."
+    answer: "Cadeo propose une période d'essai gratuite, puis un tarif de base (20 €/mois) + surcoûts pour l'IA (20 €/mois supplémentaires)."
   - question: "Quel est le vrai coût total de Cadeo ?"
-    answer: "Entre 20 €/mois (base) et 40+ €/mois si vous ajoutez le module IA, ce qui la rapproche du prix de Grow Lot."
+    answer: "Entre 20 €/mois (base) et 40 €/mois avec le module IA. En comparaison, Grow Lot est à 19 € HT/mois en offre Essentiel (avec engagement) et 59 € HT/mois en offre tout inclus Performance."
   - question: "Grow Lot inclut-il l'IA sans surcoût ?"
-    answer: "Oui, Pixmo (l'assistant IA de Grow Lot) est inclus dans tous les plans, sans frais additionnels."
+    answer: "Oui, l'analyse IA des avis et 20 visuels IA par mois sont inclus dès l'offre Essentiel (19 € HT/mois), et l'audit de visibilité IA est inclus dans Performance (59 € HT/mois)."
   - question: "Cadeo offre-t-il un filtre anti-avis ?"
     answer: "Non, Cadeo ne propose pas de système de filtrage des avis négatifs comme Grow Lot."
   - question: "Peut-on comparer les réponses IA des deux outils ?"
-    answer: "Grow Lot utilise une IA spécialisée dans la réponse aux avis négatifs (Pixmo). Cadeo l'ajoute comme option payante."
+    answer: "Grow Lot intègre l'analyse IA des avis et la réponse aux avis dans son offre Performance (59 € HT/mois) et 20 visuels IA/mois dès Essentiel, tandis que Cadeo facture son option IA 20 €/mois supplémentaires."
   - question: "Grow Lot est-il plus cher que Cadeo ?"
-    answer: "Au prix affiché, Grow Lot (49 €/mois) coûte environ 2.5x plus que Cadeo seul (20 €/mois). Mais une fois l'IA ajoutée chez Cadeo (20 € de plus), les prix convergent — et Grow Lot offre bien plus de fonctionnalités pour le même coût."
+    answer: "L'offre Essentiel de Grow Lot (19 € HT/mois avec engagement) est au même prix que Cadeo seul (20 €/mois). Pour l'offre tout inclus Performance (59 € HT/mois), l'écart n'est que de 19 € par rapport à Cadeo + IA (40 €/mois), tout en incluant le filtre anti-avis, les relances email/SMS/WhatsApp, la carte Wallet et les supports physiques."
 ---
 
 Vous hésitez entre **Grow Lot** et **Cadeo** pour l'acquisition et la fidélisation de vos clients ? Ces deux solutions utilisent la roue de la fortune et le QR code pour engager vos visiteurs — mais elles ne jouent pas dans la même stratégie.
@@ -31,7 +31,7 @@ Quelle est vraiment la meilleure option pour votre commerce en 2026 ? Décortiqu
 
 **Cadeo** est positionnée comme une solution simple et intelligente de collecte d'avis et de fidélisation, avec un accent sur l'IA générative pour la gestion des avis. Tarif de base bas (20 €/mois), avec un module IA payant en sus (+20 €/mois).
 
-**Grow Lot** est une suite complète de fidélisation, marketing local et e-réputation : roue 100 % gagnante + filtre anti-avis + e-mail marketing + 10 CTA cumulables + IA intégrée (Pixmo) + supports physiques. Tarif fixe 49 €/mois, tout inclus.
+**Grow Lot** est une suite complète de fidélisation, marketing local et e-réputation : roue 100 % gagnante + filtre intelligent d'avis + relances email et SMS (WhatsApp sur Performance) + carte de fidélité Apple & Google Wallet + 10 CTA cumulables + analyse IA des avis & visuels IA + supports physiques inclus. Tarifs : Essentiel dès 19 € HT/mois (29 € HT sans engagement) et Performance à 59 € HT/mois (79 € HT sans engagement).
 
 ---
 
@@ -45,16 +45,17 @@ Quelle est vraiment la meilleure option pour votre commerce en 2026 ? Décortiqu
 | QR code | ✅ | ✅ |
 | Filtre anti-avis négatifs | ✅ | ❌ |
 | Collecte e-mail + téléphone | ✅ | ✅ |
-| Relances marketing (e-mail/SMS) | ✅ | ❌ |
+| Relances email et SMS intégrées | ✅ (WhatsApp sur Performance) | ❌ |
+| Carte de fidélité Apple & Google Wallet | ✅ | ❌ |
 | Appels à l'action (CTA) | ✅ 10 CTA cumulables | ❌ (basique) |
 | Deeplinks (ouverture directe app) | ✅ | ❌ |
 | Trustpilot / TripAdvisor | ✅ | ❌ |
 | Audit GMB / SEO local | ✅ | ❌ |
-| Réponses IA aux avis | ✅ (Pixmo inclus) | ✅ (20 €/mois extra) |
-| Supports physiques inclus | ✅ (chevalets + flyers) | ❌ |
+| Analyse IA des avis & réponses | ✅ (Performance, 20 visuels/mois dès Essentiel) | ✅ (20 €/mois extra) |
+| Supports physiques inclus | ✅ Panneau de comptoir (Essentiel) / + 500 flyers (Performance) | ❌ |
 | Système anti-triche | ✅ | ❌ |
 | Multi-langues | ✅ FR/EN/ES | ❌ |
-| **Prix mensuel** | **49 €/mois (tout inclus)** | **20 €/mois + 20 € IA** |
+| **Prix mensuel** | **Dès 19 € HT/mois (Essentiel) / 59 € HT/mois (Performance)** | **20 €/mois + 20 € IA** |
 
 </div>
 
@@ -62,25 +63,25 @@ Quelle est vraiment la meilleure option pour votre commerce en 2026 ? Décortiqu
 
 ## 1. Le piège du "prix bas apparent"
 
-Cadeo affiche 20 €/mois. C'est 40 % moins cher que Grow Lot. Mais voici le problème : cette tarification ne dit rien.
+Cadeo affiche 20 €/mois. En comparaison, l'offre Essentiel de Grow Lot démarre à **19 € HT/mois** avec engagement annuel (ou 29 € HT sans engagement) : Grow Lot est déjà au même niveau tarifaire tout en incluant la carte de fidélité Apple & Google Wallet, 4 jeux dans un hub, 20 visuels IA par mois, la vérification des lots et l'anti-triche.
 
 En réalité, Cadeo fonctionne par ajout de modules :
 - **20 €/mois** : roue de la fortune + collecte d'avis (base)
-- **+20 €/mois** : module IA pour répondre aux avis (pour faire jeu égal avec Grow Lot)
+- **+20 €/mois** : module IA pour répondre aux avis
 - Possibilités d'autres surcoûts pour fonctionnalités avancées
 
-Une fois l'IA ajoutée, vous payez **40 €/mois chez Cadeo** pour grossièrement les mêmes fonctionnalités de base que Grow Lot à **49 €/mois**.
+Une fois l'IA ajoutée, vous payez **40 €/mois chez Cadeo**. En face, l'offre tout inclus Performance de Grow Lot est à **59 € HT/mois** avec engagement annuel (79 € HT sans engagement).
 
-**La vraie différence** : pour 9 euros de plus (49 € vs 40 €), Grow Lot vous offre en supplément :
-- E-mail marketing automatisé (boîte séparée chez Cadeo = coût supplémentaire)
-- 10 CTA cumulables avec deeplinks
-- Filtre anti-avis négatifs
-- Supports physiques (chevalets + 500 flyers)
-- Audit GMB et SEO local
+**La vraie différence** : pour 19 euros de plus (59 € HT vs 40 €/mois chez Cadeo avec IA), l'offre Performance de Grow Lot vous offre en supplément :
+- Relances email et SMS intégrées (ainsi que WhatsApp sur Performance) avec 5 000 emails/mois
+- Carte de fidélité Apple et Google Wallet
+- Filtre intelligent d'avis (redirige les 1-3 étoiles en interne)
+- Supports physiques inclus (panneau de comptoir personnalisé + 500 flyers)
+- Analyse IA des avis et audit de visibilité IA
 - Multi-langue (FR/EN/ES)
-- Système anti-triche avancé
+- Système anti-triche avancé et vérification des lots
 
-En d'autres termes : **Cadeo est un piège du "bon marché"**. Vous finissez toujours à payer les mêmes prix pour beaucoup moins de fonctionnalités.
+En d'autres termes : **Cadeo est un faux bon marché**. Dès que vous ajoutez les options indispensables, vous payez pratiquement le tarif d'une suite tout inclus pour un périmètre bien plus restreint.
 
 ---
 
@@ -92,7 +93,7 @@ Voici ce qu'il manque à cette approche :
 
 **1. Les réponses IA génériques ennuient les clients.** Quand un client lit une réponse évidemment générée par machine ("Merci pour votre avis, nous prenons tous les commentaires au sérieux..."), il le sent. L'IA chez Cadeo répond à TOUS les avis, y compris les 5 étoiles — ce qui dilue votre signal.
 
-**Pixmo (l'IA de Grow Lot)** priorise :
+**L'analyse IA de Grow Lot** priorise :
 - Les avis 1-3 étoiles = réponses personnalisées et prioritaires
 - Les avis 4-5 étoiles = remercier simplement ou ignorer
 - Le filtrage anti-avis permet aux avis négatifs d'être gérés en interne d'abord, avant qu'une réponse IA ne soit envisagée
@@ -148,9 +149,9 @@ Cadeo est principalement français. Si vous avez des clients ou des succursales 
 
 **Choisissez Grow Lot si** vous sérieusement à construire une stratégie de croissance : protéger votre réputation Google, fidéliser via e-mail, gérer les clients insatisfaits, accéder à une suite marketing complète, et disposer d'un support réactif.
 
-**En pratique :** une fois que vous ajoutez l'IA à Cadeo, vous payez 40 €/mois pour moins de fonctionnalités que Grow Lot à 49 €/mois. Le coût caché de Cadeo (modules supplémentaires) finit toujours par neutraliser son avantage prix initial.
+**En pratique :** une fois l'IA ajoutée chez Cadeo (40 €/mois), vous payez deux fois le tarif de l'offre Essentiel de Grow Lot (19 € HT/mois) et vous approchez de l'offre Performance tout inclus (59 € HT/mois). Le coût caché des modules Cadeo neutralise son avantage prix initial.
 
-Pour la majorité des commerçants sérieux, **Grow Lot est un investissement supérieur** — surtout avec l'offre à vie actuelle (49 €/mois garanti, même si le plan monte à 129 €/mois plus tard).
+Pour la majorité des commerçants sérieux, **Grow Lot est un investissement supérieur**, offrant une suite complète et évolutive.
 
 </div>
 
@@ -175,7 +176,7 @@ Pour la majorité des commerçants sérieux, **Grow Lot est un investissement su
 
 <div class="faq-item">
   <p class="faq-q">Grow Lot inclut-il l'IA sans surcoût ?</p>
-  <p class="faq-a">Oui, Pixmo (l'assistant IA de Grow Lot) est inclus dans tous les plans, sans frais additionnels.</p>
+  <p class="faq-a">Oui, l'analyse IA des avis et 20 visuels IA par mois sont inclus dès l'offre Essentiel (19 € HT/mois), et l'audit de visibilité IA est inclus dans Performance (59 € HT/mois).</p>
 </div>
 
 <div class="faq-item">
@@ -185,15 +186,15 @@ Pour la majorité des commerçants sérieux, **Grow Lot est un investissement su
 
 <div class="faq-item">
   <p class="faq-q">Peut-on comparer les réponses IA des deux outils ?</p>
-  <p class="faq-a">Grow Lot utilise une IA spécialisée dans la réponse aux avis négatifs (Pixmo). Cadeo l'ajoute comme option payante, ce qui affaiblit son avantage prix.</p>
+  <p class="faq-a">Grow Lot intègre l'analyse IA des avis et la réponse aux avis dans son offre Performance (59 € HT/mois) et 20 visuels IA/mois dès Essentiel, tandis que Cadeo facture son option IA 20 €/mois supplémentaires.</p>
 </div>
 
 <div class="faq-item">
   <p class="faq-q">Grow Lot est-il plus cher que Cadeo ?</p>
-  <p class="faq-a">Au prix affiché, Grow Lot (49 €/mois) coûte environ 2.5x plus que Cadeo seul (20 €/mois). Mais une fois l'IA ajoutée chez Cadeo (20 € de plus), les prix convergent — et Grow Lot offre bien plus de fonctionnalités pour le même coût.</p>
+  <p class="faq-a">L'offre Essentiel de Grow Lot (19 € HT/mois avec engagement) est au même prix que Cadeo seul (20 €/mois). Pour l'offre tout inclus Performance (59 € HT/mois), l'écart n'est que de 19 € par rapport à Cadeo + IA (40 €/mois), tout en incluant le filtre anti-avis, les relances email/SMS/WhatsApp, la carte Wallet et les supports physiques.</p>
 </div>
 
 <div class="faq-item">
-  <p class="faq-q">Quelle est l'offre à vie de Grow Lot ?</p>
-  <p class="faq-a">Les clients qui s'inscrivent aujourd'hui au plan de lancement à 49 €/mois conservent ce prix à vie, même si le plan Premium monte à 129 €/mois. C'est une garantie unique sur le marché.</p>
+  <p class="faq-q">Quels sont les tarifs de Grow Lot ?</p>
+  <p class="faq-a">Grow Lot propose l'offre Essentiel dès 19 € HT/mois avec engagement annuel (29 € HT/mois sans engagement) et l'offre tout inclus Performance à 59 € HT/mois avec engagement (79 € HT/mois sans engagement).</p>
 </div>

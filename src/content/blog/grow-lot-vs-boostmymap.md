@@ -8,11 +8,11 @@ faq:
   - question: "BoostMyMap propose-t-il un filtre anti-avis négatifs ?"
     answer: "Non. BoostMyMap précise que la récompense n'est pas conditionnée par une note positive, mais tous les avis — y compris les 1 ou 2 étoiles — sont publiés directement sur Google. Aucun système de filtrage ou de modération n'est intégré."
   - question: "Quel est le prix de BoostMyMap ?"
-    answer: "BoostMyMap propose un tarif unique à 14,99 € HT/mois, sans engagement, avec un essai gratuit de 14 jours sans carte bancaire. Grow Lot est à 49 €/mois (futur 129 €/mois)."
+    answer: "BoostMyMap propose un tarif unique à 14,99 € HT/mois sans engagement. Grow Lot propose l'offre Essentiel dès 19 € HT/mois avec engagement (29 € HT/mois sans engagement) et l'offre tout inclus Performance à 59 € HT/mois avec engagement (79 € HT/mois sans engagement)."
   - question: "BoostMyMap ou Grow Lot : quelle roue de la fortune est meilleure ?"
-    answer: "BoostMyMap propose une roue à probabilités configurables (vous décidez qui gagne). Grow Lot propose une roue 100 % gagnante : chaque client repart avec un lot garanti, sans frustration, ce qui maximise le taux de conversion scan → avis (≈50 %)."
+    answer: "BoostMyMap propose une roue à probabilités configurables (vous décidez qui gagne). Grow Lot propose une roue 100 % gagnante : chaque client repart avec un lot garanti, sans frustration, ce qui permet d'obtenir des résultats officiels comme +120 avis Google/mois en restauration (+80 avis en moins de 20 jours)."
   - question: "BoostMyMap inclut-il des relances e-mail ou SMS ?"
-    answer: "Non. BoostMyMap mise sur le retour en établissement pour récupérer son cadeau, mais ne propose pas de campagnes e-mail ou SMS automatisées. Grow Lot intègre nativement l'e-mail marketing avec relances automatisées et segmentation."
+    answer: "Non. BoostMyMap ne propose pas de relances email ou SMS. Grow Lot intègre nativement des relances email et SMS (WhatsApp sur Performance) avec carte de fidélité Apple & Google Wallet."
   - question: "BoostMyMap propose-t-il un essai gratuit ?"
     answer: "Oui, BoostMyMap offre 14 jours d'essai gratuit sans carte bancaire. Grow Lot propose une démonstration gratuite sur son site officiel."
   - question: "Peut-on utiliser BoostMyMap pour d'autres plateformes que Google ?"
@@ -31,7 +31,7 @@ Ce comparatif est basé sur les données publiques de BoostMyMap (site officiel,
 
 **BoostMyMap** est une solution française de gamification centrée sur un objectif précis : collecter des avis Google via une roue cadeau connectée par QR code. Le client scanne, laisse un avis sur Google, puis joue à la roue pour tenter de gagner un lot. Pour récupérer son gain, il doit revenir en établissement — créant une boucle naturelle de fidélisation. Le tout pour 14,99 € HT/mois, avec une mise en service en 48h et un taux de participation revendiqué de 85 %.
 
-**Grow Lot** va plus loin : la roue est **100 % gagnante**, toujours. Chaque client repart avec un lot garanti — sans probabilités, sans frustration. C'est ensuite, depuis cette position de gratitude, qu'on lui propose de laisser un avis. Résultat : **~50 % de taux de conversion scan → action**. Grow Lot ajoute aussi un filtre anti-avis négatifs, des relances e-mail automatisées, un assistant IA 24h/24, des CTA multi-plateformes et bien plus.
+**Grow Lot** va plus loin : la roue est **100 % gagnante**, toujours. Chaque client repart avec un lot garanti — sans probabilités, sans frustration. C'est ensuite, depuis cette position de gratitude, qu'on lui propose de laisser un avis. Résultat : des performances prouvées (+120 avis Google/mois en restauration, +80 avis en moins de 20 jours). Grow Lot ajoute aussi un filtre intelligent d'avis, des relances email et SMS intégrées (WhatsApp sur Performance), la carte de fidélité Apple & Google Wallet, l'analyse IA des avis et l'audit de visibilité IA, des CTA multi-plateformes et bien plus.
 
 La différence centrale : BoostMyMap demande l'avis **avant** le jeu (approche transactionnelle), tandis que Grow Lot fait gagner le client **avant** de lui demander un avis (approche par réciprocité).
 
@@ -46,21 +46,22 @@ La différence centrale : BoostMyMap demande l'avis **avant** le jeu (approche t
 | Roue de la fortune | ✅ 100 % gagnante | ✅ probabilités configurables |
 | Filtre anti-avis négatifs | ✅ | ❌ |
 | Séquence jeu → avis | Gain d'abord, avis ensuite (réciprocité) | Avis d'abord, jeu ensuite (transaction) |
-| Relances e-mail marketing | ✅ | ❌ |
+| Relances email et SMS intégrées | ✅ (WhatsApp sur Performance) | ❌ |
+| Carte de fidélité Apple & Google Wallet | ✅ | ❌ |
 | Collecte e-mail + téléphone | ✅ | ❌ (non documenté) |
 | Deeplinks (ouverture directe app) | ✅ | ❌ |
 | Multi-plateformes (Trustpilot, TripAdvisor…) | ✅ | ❌ (Google uniquement) |
 | 10 CTA cumulables et séquençables | ✅ | ❌ |
 | Audit GMB / SEO local | ✅ | ✅ (simulateur de ROI + blog SEO) |
-| Réponses IA aux avis Google | ✅ (Pixmo) | ❌ |
-| Supports physiques inclus | ✅ chevalets + 500 flyers | ✅ affiches sur-mesure livrées en 48h |
+| Analyse IA des avis & réponses | ✅ (Performance) | ❌ |
+| Supports physiques inclus | ✅ Panneau de comptoir (Essentiel) / + 500 flyers (Performance) | ✅ affiches sur-mesure livrées en 48h |
 | Système anti-triche documenté | ✅ | ❌ |
 | Personnalisation visuelle | ✅ | ✅ (couleurs, logo, univers) |
 | Mise en service | Matériel inclus | Déploiement en 48h par leur équipe |
-| Assistant IA 24h/24 | ✅ | ❌ |
+| Analyse IA des avis & visuels IA | ✅ (20 visuels/mois dès Essentiel, audit en Performance) | ❌ |
 | Essai gratuit | Démo gratuite | 14 jours sans CB |
 | RGPD certifié | ✅ | ? |
-| Prix mensuel | **49 €/mois** (futur 129 €/mois) | **14,99 € HT/mois** sans engagement |
+| Prix mensuel | **Dès 19 € HT/mois (Essentiel) / 59 € HT/mois (Performance)** | **14,99 € HT/mois** sans engagement |
 
 </div>
 
@@ -83,7 +84,7 @@ La différence centrale : BoostMyMap demande l'avis **avant** le jeu (approche t
 - **Pas de filtre anti-avis négatifs** : tous les avis vont directement sur Google, y compris les 1 étoile. Aucune protection de votre réputation en ligne.
 - **Pas d'e-mail marketing** : aucune campagne automatisée, pas de segmentation, pas de relances post-visite au-delà du « revenez chercher votre cadeau ».
 - **Google uniquement** : pas de collecte sur Trustpilot, TripAdvisor ou autres plateformes.
-- **Pas d'IA** : pas de réponses automatiques aux avis Google, pas d'assistant 24h/24.
+- **Pas d'IA** : pas d'analyse IA des avis, pas de visuels IA ni d'audit de visibilité.
 - **Séquence transactionnelle** : l'avis est demandé avant le jeu, ce qui peut créer de la méfiance chez le client.
 - **Pas de collecte documentée de données clients** : aucun système de collecte e-mail/téléphone intégré mentionné, limitant le potentiel de fidélisation à long terme.
 - **Pas de système anti-triche documenté**.
@@ -96,17 +97,17 @@ La différence centrale : BoostMyMap demande l'avis **avant** le jeu (approche t
 
 - **Roue 100 % gagnante** : pas de perdants, jamais. Chaque client repart content — la frustration du « j'ai perdu » n'existe pas.
 - **Filtre anti-avis négatifs** : les clients qui s'apprêtent à laisser 1, 2 ou 3 étoiles sont redirigés en interne. Seuls les avis 4 et 5 étoiles vont sur Google.
-- **Réciprocité, pas transaction** : le client gagne d'abord, puis on lui demande un avis comme une faveur. Taux de conversion scan → avis de ~50 %.
-- **E-mail marketing intégré** : campagnes drag-and-drop, relances automatisées, segmentation par comportement.
+- **Réciprocité, pas transaction** : le client gagne d'abord, puis on lui demande un avis comme une faveur (+120 avis Google/mois en restauration, +80 avis en 20 jours).
+- **Relances marketing intégrées** : relances email et SMS (WhatsApp sur Performance), 5 000 emails/mois, carte de fidélité Apple & Google Wallet.
 - **Multi-plateformes** : Trustpilot, TripAdvisor, et plus. 10 CTA cumulables et séquençables.
-- **Assistant IA Pixmo 24h/24** : réponses automatiques aux avis Google, audit GMB et SEO local.
-- **Supports physiques inclus** : chevalets de table + 500 flyers dès l'abonnement.
+- **Analyse IA des avis & visuels IA** : 20 visuels IA par mois, analyse IA des avis et audit de visibilité IA.
+- **Supports physiques inclus** : panneau de comptoir personnalisé (Essentiel), + 500 flyers inclus (Performance).
 - **Système anti-triche documenté** : protection contre les abus et la fraude.
 - **RGPD certifié**.
 
 ### Limites de Grow Lot
 
-- **Prix plus élevé** : 49 €/mois (futur 129 €/mois) contre 14,99 € HT/mois pour BoostMyMap. Mais pour beaucoup plus de fonctionnalités.
+- **Prix et fonctionnalités** : de 19 € HT/mois (Essentiel) à 59 € HT/mois (Performance tout inclus) contre 14,99 € HT/mois pour BoostMyMap, reflétant un périmètre fonctionnel beaucoup plus riche.
 - **Pas de page de liens** : pas de fonctionnalité centralisée type « mini-site » via le QR code.
 - **Pas d'essai gratuit en self-service** : Grow Lot propose une démo plutôt qu'un essai libre.
 
@@ -134,7 +135,7 @@ Les deux outils visent le même objectif, mais l'ordre des opérations change to
 
 **Chez Grow Lot**, le client joue et gagne d'abord — sans aucune condition — puis on lui propose de laisser un avis comme une faveur. L'avis est volontaire, non forcé. Le client n'a pas l'impression d'être dans une transaction commerciale, mais dans une relation de réciprocité.
 
-Cette différence psychologique n'est pas anecdotique. Elle explique en partie le taux de ~50 % de conversion scan → avis de Grow Lot, contre les 5 à 10 % habituels du secteur pour une simple demande verbale.
+Cette différence psychologique n'est pas anecdotique. Elle explique en partie les résultats officiels de Grow Lot (+120 avis Google/mois en restauration, +80 avis en moins de 20 jours), contre les 5 à 10 % habituels du secteur pour une simple demande verbale.
 
 ---
 
@@ -152,21 +153,21 @@ Si vous gérez un restaurant, un salon ou un commerce où la satisfaction client
 
 ### 4️⃣ La fidélisation : la boucle naturelle vs la machine automatisée
 
-BoostMyMap a une approche intéressante : le client doit revenir en établissement pour récupérer son gain, ce qui crée naturellement un second passage. C'est une boucle de fidélisation simple et efficace. Mais c'est aussi la seule mécanique de fidélisation — il n'y a pas de relances e-mail, pas de SMS, pas de segmentation, pas de campagnes automatisées.
+BoostMyMap a une approche intéressante : le client doit revenir en établissement pour récupérer son gain, ce qui crée naturellement un second passage. C'est une boucle de fidélisation simple et efficace. Mais c'est aussi la seule mécanique de fidélisation — il n'y a pas de relances email, pas de SMS, pas de WhatsApp, pas de carte de fidélité Apple/Google Wallet.
 
-Grow Lot intègre nativement l'e-mail marketing : campagnes drag-and-drop, relances automatisées, segmentation par comportement (clients silencieux, anniversaires, événements saisonniers). L'objectif n'est pas seulement de faire revenir le client une fois — c'est de le faire revenir **régulièrement**, sur des mois, sans effort supplémentaire de votre part.
+Grow Lot intègre nativement des relances email et SMS intégrées (WhatsApp sur Performance) et la carte de fidélité Apple & Google Wallet : 5 000 emails/mois, relances automatisées, segmentation par comportement (clients silencieux, anniversaires, événements saisonniers). L'objectif n'est pas seulement de faire revenir le client une fois — c'est de le faire revenir **régulièrement**, sur des mois, sans effort supplémentaire de votre part.
 
 BoostMyMap est une excellente amorce (première visite → avis → retour), mais ne prolonge pas la relation client au-delà. Grow Lot, lui, construit une vraie base de données clients et l'exploite pour un cycle de fidélisation continu.
 
 ---
 
-### 5️⃣ Prix et valeur : 14,99 € vs 49 €, à quel coût réel ?
+### 5️⃣ Prix et valeur : 14,99 € vs 19 € (Essentiel) ou 59 € (Performance), à quel coût réel ?
 
-Sur le papier, l'écart de prix est important : **14,99 € HT/mois** pour BoostMyMap contre **49 €/mois** pour Grow Lot (soit environ 3,2x plus). Mais le rapport prix/valeur raconte une autre histoire.
+Sur le papier, BoostMyMap s'affiche à **14,99 € HT/mois** sans engagement. En comparaison, Grow Lot propose l'offre Essentiel dès **19 € HT/mois** avec engagement annuel (29 € HT/mois sans engagement) et l'offre Performance à **59 € HT/mois** (79 € HT sans engagement).
 
-Pour 14,99 € HT/mois, BoostMyMap vous donne : une roue cadeau, un QR code, des affiches, de la collecte d'avis Google. C'est complet pour son prix — mais c'est tout.
+Pour 14,99 € HT/mois, BoostMyMap propose une solution ciblée : roue cadeau, QR code, affiches et collecte d'avis Google.
 
-Pour 49 €/mois, Grow Lot vous donne : une roue 100 % gagnante, un filtre anti-avis négatifs, des relances e-mail automatisées, un assistant IA 24h/24, des CTA multi-plateformes, un audit GMB/SEO local, des chevalets + 500 flyers, un système anti-triche et la certification RGPD.
+Dès 19 € HT/mois (Essentiel), Grow Lot inclut la roue 100 % gagnante, la carte de fidélité Apple & Google Wallet, un panneau de comptoir personnalisé, 20 visuels IA par mois, la base clients exportable et l'anti-triche. Et pour 59 € HT/mois (Performance tout inclus), vous accédez au filtre intelligent d'avis, à 5 000 emails/mois + SMS et WhatsApp, 500 flyers, l'analyse IA des avis et l'audit de visibilité IA.
 
 La vraie question n'est pas « lequel est le moins cher » mais « combien vous coûte un seul avis négatif non filtré sur Google pendant 6 mois ». Si ce seul avis vous coûte ne serait-ce que 3 clients par mois, l'écart de prix est largement compensé par le filtre de Grow Lot.
 
@@ -193,7 +194,7 @@ La vraie question n'est pas « lequel est le moins cher » mais « combien vous 
 
 **Choisissez BoostMyMap si** vous avez un budget très serré (moins de 20 €/mois), que vous voulez uniquement une solution de collecte d'avis Google simple et rapide, et que vous n'avez pas besoin de filtre anti-avis négatifs, d'e-mail marketing ou d'IA. C'est un excellent outil d'entrée de gamme qui fait très bien ce pour quoi il a été conçu : booster les avis Google via une roue cadeau.
 
-**Choisissez Grow Lot si** vous voulez un outil tout-en-un qui protège votre réputation Google (filtre anti-avis négatifs), fait revenir vos clients automatiquement (e-mail marketing intégré), maximise le taux de conversion scan → avis grâce à une roue 100 % gagnante, et vous apporte un assistant IA 24h/24. Le tout sans multiplier les abonnements ni les outils tiers.
+**Choisissez Grow Lot si** vous voulez un outil tout-en-un qui protège votre réputation Google (filtre anti-avis négatifs), fait revenir vos clients automatiquement (relances email et SMS intégrées, WhatsApp sur Performance, carte Wallet), génère des avis en continu grâce à une roue 100 % gagnante, et met à disposition une analyse IA des avis et un audit de visibilité. Le tout sans multiplier les abonnements ni les outils tiers.
 
 Pour la majorité des commerçants qui veulent un **impact durable sur leur note Google et leur chiffre d'affaires** — et pas seulement un boost d'avis ponctuel — Grow Lot est la solution la plus complète du marché, et l'écart de prix se justifie largement par le nombre de fonctionnalités incluses.
 

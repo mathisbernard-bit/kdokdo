@@ -17,13 +17,13 @@ Vous cherchez une solution de fidélisation pour votre commerce ? **Grow Lot** e
 
 | Critère | Grow Lot | Smile.io |
 |---------|----------|----------|
-| **Type d'offre** | Roue de fortune + avis Google + email | Système de points classique + renvois |
+| **Type d'offre** | Hub 4 jeux (dont roue) + cartes Wallet + avis Google + relances multi-canaux | Système de points classique + renvois |
 | **Ciblage** | Commerces physiques (QR code, tablette) | E-commerce + physique |
-| **Tarification** | 49€/mois (lancement), 129€/mois (futur) | 29€/mois à 249€/mois selon le volume |
+| **Tarification** | Essentiel dès 19 € HT/mois (29 € sans engagement), Performance à 59 € HT/mois (79 € sans engagement) | 29 €/mois à 249 $/mois selon le volume |
 | **Gamification** | ✅ Roue interactive (100% gagnante) | ✅ Points + paliers |
 | **Intégration** | Webflow, Shopify, Point de vente | Shopify, WooCommerce, API |
 | **Support avis Google** | ✅ Filtre anti-négatif, auto-réponses | ⚠️ Fonction secondaire |
-| **Email marketing** | ✅ Inclus | ❌ Externe (Klaviyo, Mailchimp) |
+| **Relances marketing** | ✅ Email et SMS intégrés (WhatsApp sur Performance) | ❌ Externe (Klaviyo, Mailchimp) |
 | **ROI moyen** | 6-12 mois | 3-6 mois (e-commerce) |
 
 ## Smile.io : Forces et faiblesses
@@ -48,18 +48,18 @@ Vous cherchez une solution de fidélisation pour votre commerce ? **Grow Lot** e
 
 ### ✅ Forces
 
-- **100% gamifiée** : Roue de la fortune avec taux de conversion de 50%
+- **100% gamifiée** : Hub de 4 jeux (dont roue 100% gagnante) et cartes de fidélité Apple/Google Wallet
 - **Avis Google intégré** : Filtre anti-négatif + auto-réponses intelligentes
-- **Email marketing inclus** : Pas besoin d'outil externe
+- **Relances marketing incluses** : Relances email et SMS intégrées (WhatsApp sur Performance)
 - **Commerces physiques d'abord** : QR code, tablette, supports physiques
 - **Made in France** : Support français, conforme RGPD
-- **Supports tangibles inclus** : Roue à imprimer, affiches, QR codes
+- **Supports physiques inclus** : Panneau de comptoir personnalisé inclus partout, 500 flyers avec Performance
 
 ### ❌ Faiblesses
 
 - **Moins flexible en e-commerce** : Moins optimisé pour les ventes en ligne
 - **Pas de système de renvois natif** : Programme d'ambassadeurs à configurer manuellement
-- **Prix élevé pour les débuts** : 49€/mois minimum (vs 29€ chez Smile.io)
+- **Ciblage principal commerce physique** : Moins axé sur les pure-players e-commerce sans boutique physique
 - **Courbe d'apprentissage** : Plus de paramètres à configurer
 - **Écosystème français** : Moins d'intégrations que Shopify/WooCommerce
 
@@ -77,13 +77,13 @@ Vous cherchez une solution de fidélisation pour votre commerce ? **Grow Lot** e
 - Vous voulez **augmenter les avis Google** facilement
 - Vous cherchez un **outil tout-en-un** (gamification + avis + email)
 - Vous préférez un **support français** et une équipe accessible
-- Vous avez un **budget marketing** (49€+ est un investissement, pas une ligne budgétaire)
+- Vous cherchez un **outil de fidélisation physique complet** (Essentiel dès 19 € HT/mois, Performance à 59 € HT/mois)
 
 ## ROI et impact réel
 
 **Smile.io** convient mieux aux **e-merchants** : +15% de commande répétée, -20% churn client.
 
-**Grow Lot** convient mieux aux **commerces physiques** : +50% avis Google, +30% panier moyen grâce à la gamification.
+**Grow Lot** convient mieux aux **commerces physiques** (+100 entreprises accompagnées, +10 000 avis collectés, 94 % de clients satisfaits) : +120 avis Google/mois et +20 % de CA dans la restauration.
 
 ## FAQ
 
@@ -106,4 +106,4 @@ Smile.io pour e-commerce (3-6 mois), Grow Lot pour physique (6-12 mois mais plus
 
 **Votre choix dépend surtout de votre modèle** : boutique en ligne → Smile.io ; commerce physique → Grow Lot.
 
-**Prêt à tester Grow Lot ?** [Commencer gratuitement](https://taap.it/jtQJUGy) – 30 jours d'essai, sans CB.
+**Prêt à tester Grow Lot ?** [Commencer gratuitement](https://app.grow-lot.com?utm_source=kdokdo&utm_medium=blog&utm_campaign=inscription) – 30 jours d'essai, sans CB.

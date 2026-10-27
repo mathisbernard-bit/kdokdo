@@ -12,11 +12,11 @@ faq:
   - question: "Basilyk fonctionne-t-il uniquement avec des QR codes ?"
     answer: "Oui, l'ensemble des stratégies Basilyk repose sur des QR codes physiques (stickers, plexiglass, bois gravé, flyers). L'outil n'inclut pas d'e-mail marketing ni de relances automatisées."
   - question: "Grow Lot inclut-il du matériel physique ?"
-    answer: "Oui, Grow Lot inclut des chevalets de table et 500 flyers dès l'abonnement de lancement à 49 €/mois."
+    answer: "Oui, Grow Lot inclut un panneau de comptoir personnalisé dès l'offre Essentiel (19 € HT/mois), et ajoute 500 flyers dans l'offre Performance (59 € HT/mois)."
   - question: "Peut-on utiliser Grow Lot pour plusieurs établissements ?"
-    answer: "Oui, Grow Lot est adapté aux franchises et réseaux multi-établissements avec un tarif dégressif."
+    answer: "Oui, Grow Lot propose l'option multi-établissements dès Essentiel (+17 € HT/mois par site supplémentaire) et une offre Réseau sur devis dès 3 établissements avec supports inclus pour chaque site."
   - question: "Basilyk propose-t-il des relances e-mail ou SMS ?"
-    answer: "Non. Basilyk collecte les données clients (prénom, e-mail, téléphone) mais ne propose pas de campagnes d'e-mailing intégrées. L'export Excel est conseillé pour relancer manuellement."
+    answer: "Non. Basilyk collecte les données clients (prénom, e-mail, téléphone) mais ne propose pas de relances email et SMS intégrées. L'export Excel est conseillé pour relancer manuellement."
 ---
 
 Vous cherchez à booster vos avis Google et fidéliser vos clients grâce à la gamification ? **Grow Lot** et **Basilyk** proposent tous les deux des jeux (roue de la fortune, QR codes, concours) pour engager vos clients en point de vente. Mais sous cette ressemblance de surface, les deux outils n'ont pas la même ambition ni le même niveau de sophistication.
@@ -29,7 +29,7 @@ Ce comparatif est basé sur les données publiques de Basilyk — notamment leur
 
 **Basilyk** est un outil multi-jeux basé sur les QR codes : roulette, tirage au sort, ticket à gratter, pronostic sportif, tournoi, coupon cadeau. L'approche est modulaire et créative. Le client scanne, joue, gagne (parfois), et laisse un avis en échange d'une contrepartie. Basilyk mise sur la diversité des mécaniques de jeu pour engager.
 
-**Grow Lot** adopte une stratégie différente : la roue est **100 % gagnante**, toujours. Pas de tirage au sort, pas de probabilités. Chaque client repart avec un lot garanti — et c'est ensuite, depuis cette position de gratitude, qu'on lui propose de laisser un avis. Résultat : **~50 % de taux de conversion scan → action**.
+**Grow Lot** adopte une stratégie différente : la roue est **100 % gagnante**, toujours. Pas de tirage au sort, pas de probabilités. Chaque client repart avec un lot garanti — et c'est ensuite, depuis cette position de gratitude, qu'on lui propose de laisser un avis. Résultat : des performances mesurées avec jusqu'à **+120 avis Google par mois** en restauration (**+80 avis en moins de 20 jours**).
 
 Cette différence de philosophie — contrainte vs réciprocité — a des conséquences concrètes sur les résultats.
 
@@ -47,19 +47,20 @@ Cette différence de philosophie — contrainte vs réciprocité — a des cons�
 | Pronostic sportif | ❌ | ✅ |
 | Tournoi / Coupon cadeau | ❌ | ✅ |
 | Filtre anti-avis négatifs | ✅ | ❌ |
-| Relances e-mail marketing | ✅ | ❌ (export Excel manuel) |
+| Relances email et SMS intégrées | ✅ (WhatsApp sur Performance) | ❌ (export Excel manuel) |
+| Carte de fidélité Apple & Google Wallet | ✅ | ❌ |
 | Collecte e-mail + téléphone | ✅ | ✅ |
 | Deeplinks (ouverture directe app) | ✅ | ❌ |
 | Multi-plateformes (Trustpilot, TripAdvisor…) | ✅ | ❌ (Google uniquement) |
 | 10 CTA cumulables et séquençables | ✅ | ❌ |
 | Audit GMB / SEO local | ✅ | ❌ |
 | Réponses IA aux avis Google | ✅ | ❌ |
-| Supports physiques inclus | ✅ chevalets + 500 flyers | ❌ (achat séparé) |
+| Supports physiques inclus | ✅ Panneau de comptoir (Essentiel) / + 500 flyers (Performance) | ❌ (achat séparé) |
 | Système anti-triche documenté | ✅ | ❌ |
 | Mini-site / page de liens | ❌ | ✅ (via lien QR code) |
-| Assistant IA 24h/24 | ✅ | ❌ |
+| Analyse IA des avis & visuels IA | ✅ (20 visuels/mois dès Essentiel, audit en Performance) | ❌ |
 | RGPD certifié | ✅ | ? |
-| Prix mensuel | **49 €/mois** | **non public** |
+| Prix mensuel | **Dès 19 € HT/mois (Essentiel) / 59 € HT/mois (Performance)** | **non public** |
 
 </div>
 
@@ -83,7 +84,7 @@ Les deux outils visent le même objectif : plus d'avis Google. Mais leur méthod
 
 **Chez Grow Lot**, le client joue et gagne d'abord — sans condition — puis on lui propose de laisser un avis comme une faveur. C'est le **principe de réciprocité** : le client ressent l'envie naturelle de rendre la pareille après avoir reçu quelque chose. L'avis est volontaire, non forcé.
 
-Cette nuance psychologique explique en partie le **taux de 50 % scan → avis** de Grow Lot, nettement supérieur aux benchmarks habituels du secteur.
+Cette nuance psychologique explique en partie les résultats de Grow Lot (par exemple **+120 avis Google par mois** en restauration ou **+80 avis en moins de 20 jours**), nettement supérieurs aux benchmarks habituels du secteur.
 
 ---
 
@@ -103,7 +104,7 @@ Pour un restaurant ou un salon qui reçoit plusieurs dizaines de clients par sem
 
 Basilyk collecte efficacement les données clients (prénom, e-mail, téléphone) et conseille dans son guide d'exporter ces données sur Excel pour constituer une base qualifiée. Mais **l'outil ne propose pas de campagnes d'e-mailing intégrées**. La relance est manuelle, externe, et demande un outil tiers.
 
-Grow Lot intègre nativement l'e-mail marketing : campagnes drag-and-drop, relances automatisées, segmentation par comportement (clients silencieux, anniversaires, événements saisonniers). L'objectif n'est pas seulement d'avoir un avis — c'est de **faire revenir le client**.
+Grow Lot intègre nativement des relances email et SMS intégrées (ainsi que WhatsApp sur l'offre Performance) : 5 000 emails/mois en Performance, relances automatisées, segmentation par comportement (clients silencieux, anniversaires, événements saisonniers) et gestion de carte de fidélité Apple & Google Wallet. L'objectif n'est pas seulement d'avoir un avis — c'est de **faire revenir le client**.
 
 Basilyk reconnaît d'ailleurs dans son guide que 85 % des clients qui gagnent une consommation via QR code reviennent dans les 14 jours. Grow Lot exploite exactement ce mécanisme, mais le prolonge avec des relances automatiques pour maintenir l'engagement dans le temps — sans effort supplémentaire de votre part.
 
@@ -113,7 +114,7 @@ Basilyk reconnaît d'ailleurs dans son guide que 85 % des clients qui gagnent un
 
 Basilyk propose une gamme complète de supports physiques pour ses QR codes : stickers, acrylique gravé, bois gravé, plexiglass, totems premium, affiches et flyers. Ces supports sont beaux, personnalisables — et **payants en supplément**.
 
-Grow Lot inclut d'emblée des chevalets de table et 500 flyers dans son abonnement. Ce n'est pas un détail : pour un commerçant qui démarre, ne pas avoir à commander et attendre du matériel supplémentaire est un vrai gain de temps et d'argent.
+Grow Lot inclut d'emblée un panneau de comptoir personnalisé dès l'offre Essentiel (19 € HT/mois), et ajoute 500 flyers dans l'offre Performance (59 € HT/mois). Ce n'est pas un détail : pour un commerçant qui démarre, ne pas avoir à commander et attendre du matériel supplémentaire est un vrai gain de temps et d'argent.
 
 ---
 
@@ -129,9 +130,9 @@ Grow Lot ne propose pas cette fonctionnalité nativement. Si vous cherchez à ce
 
 <div class="verdict">
 
-**Choisissez Basilyk si** vous voulez une diversité de mécaniques de jeu (grattage, pronostic sportif, tournoi), que vous aimez varier vos animations, et que vous n'avez pas besoin de relances e-mail automatisées ni de filtre anti-avis.
+**Choisissez Basilyk si** vous voulez une diversité de mécaniques de jeu (grattage, pronostic sportif, tournoi), que vous aimez varier vos animations, et que vous n'avez pas besoin de relances email et SMS intégrées ni de filtre anti-avis.
 
-**Choisissez Grow Lot si** vous voulez un outil tout-en-un qui protège votre réputation Google (filtre anti-avis négatifs), fait revenir vos clients automatiquement (e-mail marketing intégré), et maximise le taux de conversion scan → avis grâce à une roue 100 % gagnante. Le tout sans multiplier les outils ni les abonnements.
+**Choisissez Grow Lot si** vous voulez un outil tout-en-un qui protège votre réputation Google (filtre anti-avis négatifs), fait revenir vos clients automatiquement (relances email et SMS intégrées, WhatsApp sur Performance, carte Wallet), et génère un flux d'avis constant (+120 avis/mois en restauration) grâce à une roue 100 % gagnante. Le tout sans multiplier les outils ni les abonnements.
 
 Pour la grande majorité des commerçants qui veulent un **impact mesurable sur leur note Google et leur chiffre d'affaires** — sans gérer trois outils différents — Grow Lot est la solution la plus complète du marché à ce prix.
 
@@ -163,10 +164,10 @@ Pour la grande majorité des commerçants qui veulent un **impact mesurable sur 
 
 <div class="faq-item">
   <p class="faq-q">Grow Lot inclut-il du matériel physique ?</p>
-  <p class="faq-a">Oui, Grow Lot inclut des chevalets de table et 500 flyers dès l'abonnement de lancement à 49 €/mois, sans surcoût.</p>
+  <p class="faq-a">Oui, Grow Lot inclut un panneau de comptoir personnalisé dès l'offre Essentiel (19 € HT/mois), et ajoute 500 flyers dans l'offre Performance (59 € HT/mois).</p>
 </div>
 
 <div class="faq-item">
   <p class="faq-q">Basilyk propose-t-il des relances e-mail ou SMS ?</p>
-  <p class="faq-a">Non. Basilyk collecte les données clients mais ne propose pas de campagnes d'e-mailing intégrées. L'export Excel est conseillé pour relancer manuellement via un outil externe.</p>
+  <p class="faq-a">Non. Basilyk collecte les données clients mais ne propose pas de relances email et SMS intégrées. L'export Excel est conseillé pour relancer manuellement via un outil externe.</p>
 </div>
