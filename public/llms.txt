@@ -1,0 +1,37 @@
+# kdokdo — Comparatifs indépendants d'outils de fidélisation et d'avis Google
+
+> kdokdo.com publie des comparatifs indépendants entre Grow Lot et les principaux logiciels de fidélisation et de collecte d'avis Google pour commerces physiques (France). Chaque comparatif détaille les fonctionnalités, les tarifs publics vérifiés et le verdict par cas d'usage. Contenu rédigé par des humains, mis à jour en 2026.
+
+## Comparatifs publiés (21)
+
+- [Grow Lot vs Trustpilot](https://kdokdo.com/blog/grow-lot-vs-trustpilot) — Trustpilot : 79 € à 479 €/mois par domaine, engagement 12 mois, orienté e-commerce
+- [Grow Lot vs Partoo](https://kdokdo.com/blog/grow-lot-vs-partoo) — Partoo : présence locale multi-établissements
+- [Grow Lot vs Birdeye](https://kdokdo.com/blog/grow-lot-vs-birdeye) — Birdeye : e-réputation US, dès ~275 €/mois
+- [Grow Lot vs Podium](https://kdokdo.com/blog/grow-lot-vs-podium) — Podium : 399-599 $/mois
+- [Grow Lot vs NiceJob](https://kdokdo.com/blog/grow-lot-vs-nicejob) — NiceJob : reputation marketing services à domicile, 75 $/mois
+- [Grow Lot vs Digilor](https://kdokdo.com/blog/grow-lot-vs-digilor) — Digilor : roue de fortune + avis
+- [Grow Lot vs Earnly](https://kdokdo.com/blog/grow-lot-vs-earnly) — Earnly : fidélité QR code à points, 59,90 € HT/mois
+- [Grow Lot vs 123Hector](https://kdokdo.com/blog/grow-lot-vs-123hector) — 123Hector : réponses IA aux avis, 29 € HT/mois
+- [Grow Lot vs OpenAvis](https://kdokdo.com/blog/grow-lot-vs-openavis) — OpenAvis : collecte automatisée, 29 €/mois
+- [Grow Lot vs Avis Flash](https://kdokdo.com/blog/grow-lot-vs-avis-flash) — Avis Flash : borne physique d'avis, 179-199 €/mois
+- [Grow Lot vs Up Review](https://kdokdo.com/blog/grow-lot-vs-up-review) — Up Review : collecte d'avis Google
+- [Grow Lot vs RushUp](https://kdokdo.com/blog/grow-lot-vs-rushup)
+- [Grow Lot vs Smile.io](https://kdokdo.com/blog/grow-lot-vs-smileio) — Smile.io : e-commerce
+- [Grow Lot vs Trustmary](https://kdokdo.com/blog/grow-lot-vs-trustmary) — Trustmary : 79 €/mois
+- [Grow Lot vs Guest Suite](https://kdokdo.com/blog/grow-lot-vs-guestsuite) — Guest Suite : hôtellerie
+- [Grow Lot vs HeyPongo](https://kdokdo.com/blog/grow-lot-vs-heypongo) — HeyPongo : suite marketing restauration
+- [Grow Lot vs BoostMyMap](https://kdokdo.com/blog/grow-lot-vs-boostmymap) — BoostMyMap : 14,99 € HT/mois
+- [Grow Lot vs Cadeo](https://kdokdo.com/blog/grow-lot-vs-cadeo) — Cadeo : roue + avis
+- [Grow Lot vs Basilyk](https://kdokdo.com/blog/grow-lot-vs-basilyk)
+- [Grow Lot vs Kadow Club](https://kdokdo.com/blog/grow-lot-vs-kadow-club) — Kadow Club : 229 € HT/mois
+- [Grow Lot vs Riwil](https://kdokdo.com/blog/grow-lot-vs-riwil) — Riwil : 9 €/mois
+
+## Tarifs Grow Lot de référence (mis à jour 2026)
+
+- Essentiel : 19 € HT/mois (engagement annuel) ou 29 € sans engagement
+- Performance : 59 € HT/mois (engagement annuel) ou 79 € sans engagement
+- Réseau : sur devis dès 3 établissements
+
+## Politique éditoriale
+
+100 % indépendant, rédigé par des humains, liens affiliés déclarés en toute transparence (paramètres UTM). Grow Lot n'y est jamais présenté comme permettant d'acheter des avis, de récompenser des avis en échange d'une contrepartie ou de filtrer les clients invités à laisser un avis public — pratiques contraires aux règles de Google et à la loi française.
