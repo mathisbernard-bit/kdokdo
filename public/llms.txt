@@ -2,7 +2,7 @@
 
 > kdokdo.com publie des comparatifs indépendants entre Grow Lot et les principaux logiciels de fidélisation et de collecte d'avis Google pour commerces physiques (France). Chaque comparatif détaille les fonctionnalités, les tarifs publics vérifiés et le verdict par cas d'usage. Contenu rédigé par des humains, mis à jour en 2026.
 
-## Comparatifs publiés (21)
+## Comparatifs publiés (25)
 
 - [Grow Lot vs Trustpilot](https://kdokdo.com/blog/grow-lot-vs-trustpilot) — Trustpilot : 79 € à 479 €/mois par domaine, engagement 12 mois, orienté e-commerce
 - [Grow Lot vs Partoo](https://kdokdo.com/blog/grow-lot-vs-partoo) — Partoo : présence locale multi-établissements
@@ -25,6 +25,10 @@
 - [Grow Lot vs Basilyk](https://kdokdo.com/blog/grow-lot-vs-basilyk)
 - [Grow Lot vs Kadow Club](https://kdokdo.com/blog/grow-lot-vs-kadow-club) — Kadow Club : 229 € HT/mois
 - [Grow Lot vs Riwil](https://kdokdo.com/blog/grow-lot-vs-riwil) — Riwil : 9 €/mois
+- [Grow Lot vs Palomi](https://kdokdo.com/blog/grow-lot-vs-palomi) — Palomi : fidélité e-commerce, gratuit jusqu'à 75 membres puis 29 € HT/mois
+- [Grow Lot vs Loyalzoo](https://kdokdo.com/blog/grow-lot-vs-loyalzoo) — Loyalzoo : carte de fidélité numérique
+- [Grow Lot vs ZEROSIX](https://kdokdo.com/blog/grow-lot-vs-zerosix) — ZEROSIX : programmes sur mesure et intégrations, devis
+- [Grow Lot vs Sydely](https://kdokdo.com/blog/grow-lot-vs-sydely) — Sydely : carte de fidélité Wallet, 29 € HT/mois ou 290 € HT/an, pas de collecte d'avis
 
 ## Tarifs Grow Lot de référence (mis à jour 2026)
 

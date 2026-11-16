@@ -28,7 +28,7 @@ Ce comparatif s'appuie sur les pages publiques des deux éditeurs consultées le
 ## En bref
 
 - **Palomi** est un choix intéressant pour tester gratuitement un programme de fidélité et utiliser des cartes à points ou tampons, la roue, les emails et les notifications push. Son plan gratuit est limité à 75 membres.
-- **Grow Lot** s'adresse aux commerces qui veulent combiner la fidélisation avec la gamification en point de vente, les opérations de collecte d'avis Google et des actions marketing. Son prix de référence communiqué pour ce comparatif est de **49 €/mois**, avec une évolution annoncée à **129 €/mois**. Confirmez le tarif applicable directement auprès de Grow Lot.
+- **Grow Lot** s'adresse aux commerces qui veulent combiner la fidélisation avec la gamification en point de vente, les opérations de collecte d'avis Google et des actions marketing. Offre **Essentiel à 19 € HT/mois** en engagement annuel (228 €/an) ou 29 € HT sans engagement, offre **Performance à 59 € HT/mois** en annuel (708 €/an) ou 79 € HT sans engagement.
 - **Les deux** affichent les cartes Apple Wallet et Google Wallet et une utilisation sans application à télécharger côté client.
 
 ## Comparatif des fonctionnalités
@@ -49,7 +49,7 @@ Ce comparatif s'appuie sur les pages publiques des deux éditeurs consultées le
 | Segmentation / CRM | Base clients et outils marketing | CRM, segments et tags annoncés |
 | Multi-établissements | Offre réseau à confirmer auprès de l'éditeur | ✅ Sur devis |
 | Plan gratuit permanent | Non indiqué dans les informations utilisées ici | ✅ Jusqu'à 75 membres fidèles |
-| Prix public de référence | 49 €/mois ; évolution annoncée à 129 €/mois | Gratuit jusqu'à 75 membres ; Pro 29 € HT/mois ; Business 59 € HT/mois |
+| Prix public de référence | Essentiel 19 € HT/mois en annuel ou 29 € HT sans engagement ; Performance 59 € HT en annuel ou 79 € HT sans engagement | Gratuit jusqu'à 75 membres ; Pro 29 € HT/mois ; Business 59 € HT/mois |
 
 </div>
 
@@ -67,7 +67,7 @@ Grow Lot élargit la logique au-delà de la carte. Le produit met en avant des j
 
 Le point fort évident de Palomi est son point d'entrée : 0 € jusqu'à 75 membres fidèles, sans engagement selon le site. Les plans Pro et Business sont affichés respectivement à 29 € et 59 € HT par mois. Pro indique une limite de 500 membres, tandis que Business annonce des membres illimités et la gestion multi-points de vente sur devis.
 
-Pour Grow Lot, le tarif de référence communiqué pour ce comparatif est de 49 €/mois, avec une évolution annoncée à 129 €/mois. Il faut donc comparer ce prix au périmètre et aux limites de l'offre qui vous sera proposée, plutôt qu'au plan gratuit de Palomi seul. Demandez un devis ou une démonstration en précisant le nombre de sites, les besoins en marketing et les fonctions d'avis qui vous sont nécessaires.
+Pour Grow Lot, l'offre Essentiel démarre à 19 € HT/mois en engagement annuel, soit 228 € HT pour douze mois, et l'offre Performance à 59 € HT/mois. Il faut donc comparer ce prix au périmètre et aux limites de l'offre qui vous sera proposée, plutôt qu'au plan gratuit de Palomi seul. Demandez un devis ou une démonstration en précisant le nombre de sites, les besoins en marketing et les fonctions d'avis qui vous sont nécessaires.
 
 Un plan gratuit est particulièrement utile pour vérifier l'adhésion des clients et tester la mécanique. À l'inverse, une offre payante peut être plus pertinente si elle évite de multiplier les outils ou comprend des opérations que le commerce aurait autrement à gérer séparément.
 

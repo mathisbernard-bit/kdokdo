@@ -23,7 +23,7 @@ Ce comparatif s'appuie sur les informations publiques consultées le 12 novembre
 
 ## En bref
 
-- **Grow Lot** : fidélisation gamifiée et marketing local, avec roue et autres jeux, QR code, carte de fidélité numérique et Wallet Apple/Google. Prix de référence communiqué pour cette comparaison : **49 € par mois**. Une évolution vers **129 € par mois** est annoncée, à confirmer au moment de souscrire.
+- **Grow Lot** : fidélisation gamifiée et marketing local, avec roue et autres jeux, QR code, carte de fidélité numérique et Wallet Apple/Google. Offre **Essentiel à 19 € HT/mois** en engagement annuel (228 €/an) ou 29 € HT sans engagement, offre **Performance à 59 € HT/mois** en annuel (708 €/an) ou 79 € HT sans engagement.
 - **ZEROSIX** : solution de fidélité personnalisable pour commerçants, restaurateurs, métiers de bouche et opticiens. La société met en avant les campagnes marketing, le parrainage, les Wallet Apple/Google, la gestion multi-sites et plus de 70 intégrations. Le tarif est à demander sur devis.
 
 ## Tableau comparatif
@@ -41,7 +41,7 @@ Ce comparatif s'appuie sur les informations publiques consultées le 12 novembre
 | Avis clients | Collecte intégrée au parcours Grow Lot | Boosters destinés à développer les avis clients |
 | Intégrations de caisse et logiciels métiers | À vérifier selon l'équipement et le plan | Plus de 70 intégrations annoncées |
 | Multi-établissements | Offre Réseau sur devis | Gestion centralisée multi-sites mise en avant |
-| Prix public | 49 €/mois selon les informations fournies pour ce comparatif ; évolution annoncée à 129 €/mois, à confirmer | Pas de grille tarifaire publique identifiée ; devis après échange |
+| Prix public | Essentiel 19 € HT/mois en annuel (228 €/an) ou 29 € HT sans engagement ; Performance 59 € HT en annuel (708 €/an) ou 79 € HT sans engagement | Pas de grille tarifaire publique identifiée ; devis après échange |
 | Mise en place | Parcours digital à déployer dans l'établissement | Rendez-vous de cadrage, paramétrage et accompagnement dédié annoncés |
 
 </div>
@@ -80,7 +80,7 @@ Dans les deux cas, soyez attentif à la conformité : une récompense ne doit pa
 
 ## 5. Prix : tarif affiché ou devis personnalisé
 
-Pour cette comparaison, le prix Grow Lot communiqué est de **49 € par mois**, avec une évolution tarifaire annoncée à **129 € par mois**. Ces montants sont à confirmer avec l'éditeur avant publication d'un budget ou signature, notamment pour savoir s'ils sont HT ou TTC, par établissement ou par réseau, et quelles fonctionnalités sont incluses.
+Pour cette comparaison, Grow Lot affiche une offre **Essentiel à 19 € HT/mois** en engagement annuel (228 € HT pour douze mois, ou 29 € HT sans engagement) et une offre **Performance à 59 € HT/mois** en annuel (708 € HT, ou 79 € HT sans engagement). Ces montants sont hors taxes et s'entendent par établissement, un site supplémentaire étant facturé 17 € HT/mois.
 
 ZEROSIX ne publie pas de grille de prix sur sa page officielle consultée : le site invite les prospects à demander une démonstration ou à contacter un conseiller. Le devis peut dépendre du nombre de points de vente, des intégrations, du niveau d'accompagnement et des options retenues.
 
